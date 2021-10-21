@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: ''
+font: 'default'
 font_size: L
 
 # SEO
@@ -40,18 +40,6 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/HopperDominik'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
