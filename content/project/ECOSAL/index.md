@@ -26,9 +26,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-{{< figure src="/images/ecosal.jpg" title="" >}}
-
 The ["ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development"](http://ecosal-atlantis.ua.pt/) is a transnational cooperation project under the European Programme INTERREG IV B Atlantic Area 2007 - 2013, selected by the Monitoring Committee of the Programme (November 2009), which will receive a co-financing (ERDF) of 65% of the total cost of the project, amounting to € 3,059,754.  
 
 The main objective of ECOSAL ATLANTIS is to arrive at a joint, integral and sustainable development in tourism, based on the cultural and natural heritage of traditional salt-producing areas of the Atlantic. The project revolves around three key activities that involve the touristic development of the saltpans of the Atlantic: Heritage, Territorial Development and Biodiversity and Eco-Tourism.  
@@ -41,5 +38,3 @@ To promote the project to the outside world, a newsletter and website have been 
 At the level of individual countries we started off the process of European recognition of the brand and image of “The Traditional Salt Route of the Atlantic" in each of the national languages, in order to establish a unifying concept, which would encourage other sites to be included in the route.  
 
 [Official website](http://ecosal-atlantis.ua.pt/sites/default/files/DossierImprensa2010_EN.doc)  
-
-{{< figure src="/images/guerande.png" title="Salt pans of Guérande (North West of France)." >}}
