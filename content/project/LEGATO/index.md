@@ -24,10 +24,10 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-{{< figure src="/img/LEGATO_Logo.jpg" title="" >}}
+{{< figure src="/images/LEGATO_Logo.jpg" title="" >}}
 
 
 [LEGATO](http://www.legato-project.net/) stands for ‘**L**and-use intensity and **E**cological En**g**ineering – **A**ssessment **T**ools for risks and **O**pportunities in irrigated rice based production systems’ and aims to advance long-term sustainable development of irrigated rice fields, against risks arising from multiple aspects of global change. The overall objective is the elaboration and testing of generally applicable principles within the frame of ecological engineering – an emerging discipline, concerned with design, monitoring and construction of ecosystems. 
@@ -38,4 +38,4 @@ As core output, LEGATO will develop guidelines for optimising ecosystem function
   
 [Official website](http://www.legato-project.net/)
 
-{{< figure src="/img/LEGATO_background.png" title="Rice terraces of Batad" >}}
+{{< figure src="/images/LEGATO_background.png" title="Rice terraces of Batad" >}}
