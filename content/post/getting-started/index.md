@@ -35,7 +35,7 @@ tags:
 
 ---
 
-{{< figure src="/img/LEGATO_background.png" title="Rice terraces surrounding Batad." >}}
+{{< figure src="/images/LEGATO_background.png" title="Rice terraces surrounding Batad." >}}
 
 Being a PhD student at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/)
 was the best opportunity at the right time since it was the perfect combination
@@ -81,7 +81,7 @@ highlands (January-June). The arthropods were sampled when the rice plant was at
 maximum tillering stage (50 days after transplanting) because this
 stage is generally associated with a maximum abundance of arthropods. 
 
-{{< figure src="/img/banaue.png" title="Me inthe company of crew members Jerry and Raymond, and a Banaue inhabitant. a) Sweep net; b) Blow-vac; c) Enclosure." >}}
+{{< figure src="/images/banaue.png" title="Me inthe company of crew members Jerry and Raymond, and a Banaue inhabitant. a) Sweep net; b) Blow-vac; c) Enclosure." >}}
 
 The sweep net is a simple and inexpensive way to monitor the presence of a
 variety of arthropods. The blow-vac machine was operated by a gasoline-powered motor and may be
@@ -97,12 +97,12 @@ level when species level was not possible); however, dipterans (flies) and colle
 were only identified to family level due to the morphological similarity at the preadult
 stages and the quality of samples. 
 
-{{< figure src="/img/identification.png" title="Equipment used for the identification of rice arthropods." >}}
+{{< figure src="/images/identification.png" title="Equipment used for the identification of rice arthropods." >}}
 
 In addition, the arthropods were grouped into functional groups as follows: detritivores/tourists, predators, parasitoids and
 herbivores. 
 
-{{< figure src="/img/foodweb.png" title="Simple representation of the trophic relationships of arthropods in the rice agro-ecosystems." >}}
+{{< figure src="/images/foodweb.png" title="Simple representation of the trophic relationships of arthropods in the rice agro-ecosystems." >}}
 
 ## Measuring landscape heterogeneity
 
@@ -117,7 +117,7 @@ woodlands, hydrographic network and ponds. Finally, landscape metrics were calcu
 elements such as the size or shape of patches, or for whole landscapes by describing
 the arrangement of patches and composition of the landscape. 
  
-{{< figure src="/img/Maps_final.png" title="Examples of digitized maps for each region." >}}
+{{< figure src="/images/Maps_final.png" title="Examples of digitized maps for each region." >}}
 
 ## Main findings
 
