@@ -30,17 +30,16 @@ address:
   country: Germany
   country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '51.49591637'
+  longitude: '11.93786591'
 directions: Enter main building and take the stairs to Room 3.19 on Floor 3
 office_hours:
-  - '09:00 to 16:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday to Friday: 09:00 to 16:00'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Twitter
+    link: 'https://twitter.com/HopperDominik'
   - icon: skype
     icon_pack: fab
     name: Skype Me
@@ -140,7 +139,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'OpenStreetMap'
   api_key: ''
   zoom: 15
 marketing:
