@@ -1,6 +1,7 @@
 ---
 title: ECOSAL ATLANTIS
-summary: ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development
+summary: "ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development"
+
 tags: 
 - ECOSAL
 - Past
