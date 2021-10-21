@@ -26,7 +26,7 @@ url_video: ""
 slides: ""
 ---
 
-{{< figure src="/img/ecosal.jpg" title="" >}}
+{{< figure src="/images/ecosal.jpg" title="" >}}
 
 The ["ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development"](http://ecosal-atlantis.ua.pt/) is a transnational cooperation project under the European Programme INTERREG IV B Atlantic Area 2007 - 2013, selected by the Monitoring Committee of the Programme (November 2009), which will receive a co-financing (ERDF) of 65% of the total cost of the project, amounting to € 3,059,754.  
 
@@ -41,4 +41,4 @@ At the level of individual countries we started off the process of European reco
 
 [Official website](http://ecosal-atlantis.ua.pt/sites/default/files/DossierImprensa2010_EN.doc)  
 
-{{< figure src="/img/guerande.png" title="Salt pans of Guérande (North West of France)." >}}
+{{< figure src="/images/guerande.png" title="Salt pans of Guérande (North West of France)." >}}
