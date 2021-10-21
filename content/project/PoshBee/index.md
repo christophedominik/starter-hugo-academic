@@ -1,6 +1,7 @@
 ---
 title: PoshBee
-summary: Pan-European assessment, monitoring, and mitigation of stressors on the health of bees
+summary: "Pan-European assessment, monitoring, and mitigation of stressors on the health of bees"
+
 tags: 
 - PoshBee
 - Current
