@@ -35,6 +35,10 @@ directions: Enter main building and take the stairs to Room 3.19 on Floor 3
 office_hours:
   - 'Monday to Friday: 09:00 to 16:00'
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: Email
+    link: 'mailto:christophe.dominik@ufz.de'
   - icon: twitter
     icon_pack: fab
     name: Twitter
