@@ -1,6 +1,7 @@
 ---
 title: LEGATO
-summary: **L**and-use intensity and **E**cological En**g**ineering – **A**ssessment **T**ools for risks and **O**pportunities in irrigated rice based production systems
+summary: "**L**and-use intensity and **E**cological En**g**ineering – **A**ssessment **T**ools for risks and **O**pportunities in irrigated rice based production systems"
+
 tags: 
 - LEGATO
 - Past
