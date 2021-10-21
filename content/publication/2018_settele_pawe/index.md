@@ -25,7 +25,7 @@ authors:
 - Quoc Cuong Le
 - Kinh Bac Dang
 - Monina Escalada
-- **admin**
+- admin
 - Markus Franzén
 - Oliver Fried
 - Christoph Görg
@@ -110,10 +110,10 @@ publication_types: ["2"]
 publication = In *Paddy and Water Environment*
 publication_short = In *PAWE*
 
-abstract: The present special issue of Paddy and Water Environment (PAWE) focuses on Ecosystem Services in Irrigated Rice Landscapes as dealt with in the project “LEGATO—Land-use intensity and Ecological enGineering—Assessment Tools for risks and Opportunities in irrigated rice based production systems’’ (Settele et al. 2015; http://www.legato-project.net/). The project aimed at advancing long-term sustainable development of irrigated rice landscapes against risks arising from multiple aspects of global change. It encompassed 20 contract partners from six countries and two international organisations as core members as well as numerous associated partners and/or advisory board members (see addresses of authors). LEGATO was part of the framework programme ‘FONA—Research for Sustainability’ (a funding scheme of the German Federal Ministry of Education and Research—BMBF) and was supported by GLUES—the scientific coordination and synthesis project (http://modul-a.nachhaltiges-landmanagement.de/en/scientific-coordination-glues/).
+abstract: "The present special issue of Paddy and Water Environment (PAWE) focuses on Ecosystem Services in Irrigated Rice Landscapes as dealt with in the project “LEGATO—Land-use intensity and Ecological enGineering—Assessment Tools for risks and Opportunities in irrigated rice based production systems’’ (Settele et al. 2015; http://www.legato-project.net/). The project aimed at advancing long-term sustainable development of irrigated rice landscapes against risks arising from multiple aspects of global change. It encompassed 20 contract partners from six countries and two international organisations as core members as well as numerous associated partners and/or advisory board members (see addresses of authors). LEGATO was part of the framework programme ‘FONA—Research for Sustainability’ (a funding scheme of the German Federal Ministry of Education and Research—BMBF) and was supported by GLUES—the scientific coordination and synthesis project (http://modul-a.nachhaltiges-landmanagement.de/en/scientific-coordination-glues/)."
 
 # Summary. An optional shortened abstract.
-summary: The present special issue of Paddy and Water Environment (PAWE) focuses on Ecosystem Services in Irrigated Rice Landscapes as dealt with in the project “LEGATO—Land-use intensity and Ecological enGineering—Assessment Tools for risks and Opportunities in irrigated rice based production systems’’ (Settele et al. 2015; http://www.legato-project.net/). The project aimed at advancing long-term sustainable development of irrigated rice landscapes against risks arising from multiple aspects of global change. It encompassed 20 contract partners from six countries and two international organisations as core members as well as numerous associated partners and/or advisory board members (see addresses of authors). LEGATO was part of the framework programme ‘FONA—Research for Sustainability’ (a funding scheme of the German Federal Ministry of Education and Research—BMBF) and was supported by GLUES—the scientific coordination and synthesis project (http://modul-a.nachhaltiges-landmanagement.de/en/scientific-coordination-glues/).
+summary: "The present special issue of Paddy and Water Environment (PAWE) focuses on Ecosystem Services in Irrigated Rice Landscapes as dealt with in the project “LEGATO—Land-use intensity and Ecological enGineering—Assessment Tools for risks and Opportunities in irrigated rice based production systems’’ (Settele et al. 2015; http://www.legato-project.net/). The project aimed at advancing long-term sustainable development of irrigated rice landscapes against risks arising from multiple aspects of global change. It encompassed 20 contract partners from six countries and two international organisations as core members as well as numerous associated partners and/or advisory board members (see addresses of authors). LEGATO was part of the framework programme ‘FONA—Research for Sustainability’ (a funding scheme of the German Federal Ministry of Education and Research—BMBF) and was supported by GLUES—the scientific coordination and synthesis project (http://modul-a.nachhaltiges-landmanagement.de/en/scientific-coordination-glues/)."
 
 tags: [LEGATO]
 
@@ -154,7 +154,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{< figure src="/img/settele_2018.jpg" title="LEGATO overview structure and work flow—the basis for co-design and co-production." >}}
+{{< figure src="/imgages/settele_2018.jpg" title="LEGATO overview structure and work flow—the basis for co-design and co-production." >}}
