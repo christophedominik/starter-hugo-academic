@@ -5,7 +5,7 @@ title: My PhD research objectives and main findings" subtitle = "Fieldwork in th
 summary: Fieldwork in the rice fields and measuring landscape heterogeneity.
 
 # Link this post with a project
-projects: []
+projects: [LEGATO]
 
 # Date published
 date: "2018-08-06T00:00:00"
