@@ -74,7 +74,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{< figure src="/img/chap4.png" title="Linear mixed effects models representing relationships between (a) landscape diversity (SHDI) and abundance of herbivores, (b) structural connectivity of the rice bunds (COH) and abundance of detritivores/tourists and parasitoids, (c) structural connectivity of the rice bunds (COH) and species richness of predators, (d) number of rice patches (NP) and abundance of both herbivores and parasitoids, and (e) trophic interactions between predators, herbivores, and detritivores/tourists. All abundance data were log-transformed" >}}
