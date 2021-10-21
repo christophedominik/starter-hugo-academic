@@ -12,7 +12,7 @@ projects: [LEGATO]
 date: "2018-08-06T00:00:00"
 
 # Date updated
-lastmod: "2018-08-06T00:00:00"
+lastmod: "2018-08-07T00:00:00"
 
 # Is this an unpublished draft?
 draft: false
