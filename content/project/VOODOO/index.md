@@ -1,6 +1,7 @@
 ---
 title: VOODOO
-summary: Viral eco-evolutionary dynamics of wild and domestic pollinators under global change
+summary: "Viral eco-evolutionary dynamics of wild and domestic pollinators under global change"
+
 tags: 
 - VOODOO
 - Current
