@@ -1,33 +1,34 @@
-+++
-# Project title.
-title = "ECOSAL ATLANTIS"
-
-# Date this page was created.
-date = 2011-04-27T00:00:00
-
-# Project summary to display on homepage.
-summary = "ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ECOSAL","Past"]
+---
+title: ECOSAL ATLANTIS
+summary: ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development
+tags: 
+- ECOSAL
+date: "2011-04-27T00:00:00"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
+image:
+  caption:
+  focal_point: Smart
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-  
-  preview_only = true
-    
-+++
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
 
 {{< figure src="/img/ecosal.jpg" title="" >}}
 
