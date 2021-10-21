@@ -70,10 +70,10 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{< figure src="/img/LEGATO_Logo.jpg" >}}
+{{< figure src="/images/LEGATO_Logo.jpg" >}}
 
 Abstract
 
@@ -96,4 +96,4 @@ As a perspective for further research, I discussed the limitations of the method
 keywords
 Biodiversity; Landscape heterogeneity; Macroecology; Trophic interactions; Pest control; Functional diversity; Species traits; Rice
 
-{{< figure src="/img/Rice_foodweb.png" >}}
+{{< figure src="/images/Rice_foodweb.png" >}}
