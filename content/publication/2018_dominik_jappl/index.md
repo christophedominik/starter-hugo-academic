@@ -2,9 +2,9 @@
 title: "Landscape composition, configuration, and trophic interactions shape arthropod communities in rice agroecosystems"
 authors:
 - admin
-- Robert Ford
 - Ralf Seppelt
 - Finbarr G. Horgan
+- Tomáš Václavík
 
 date: "2015-09-01T00:00:00Z"
 doi: ""
