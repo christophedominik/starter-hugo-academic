@@ -1,8 +1,8 @@
 ---
-title: "GfÖ, 2018"
+title: "Ecological Society of Germany, Austria, and Switzerland (GfÖ) Annual Meeting 2018"
 
-event: "Sustainable Land Management status conference"
-event_url: "https://www.fona.de/en/sustainable-land-management-19763.html"
+event: "Ecological Society of Germany, Austria, and Switzerland (GfÖ) Annual Meeting"
+event_url: "https://www.gfoe-conference.de/"
 
 location: Vienna, Austria
 address:

@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Land Management, 2013"
+title: "Sustainable Land Management 2013"
 
 event: "Sustainable Land Management status conference"
 event_url: "https://www.fona.de/en/sustainable-land-management-19763.html"
