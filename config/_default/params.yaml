@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: christophe.dominik@ufz.de
-phone: +49 345 558 5408
+phone: +49 345 558 5222
 address:
   street: Theodor-Lieser-Strasse 4
   city: Halle
@@ -32,14 +32,10 @@ address:
 coordinates:
   latitude: '51.49591637'
   longitude: '11.93786591'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter tje main building and take the stairs to Room 3.19 on Floor 3
 office_hours:
   - '09:00 to 17:00'
 contact_links:
-  - icon: envelope
-    icon_pack: fab
-    name: Email
-    link: 'mailto:christophe.dominik@ufz.de'
 
 # Site header
 
