@@ -17,7 +17,7 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  filter_default: 1
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Current
+    tag: Current
+  - name: Past
+    tag: Past
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
