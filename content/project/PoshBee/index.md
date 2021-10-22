@@ -36,7 +36,7 @@ slides: ""
 * meet the need for monitoring tools, novel screening protocols, and practice- and policy-relevant research outputs to local, national, European, and global stakeholders.  
 
 # Funding
-Horizon 2020-EU
+Horizon 2020-EU  
 June 2018 to May 2023.
 
 # Official website
