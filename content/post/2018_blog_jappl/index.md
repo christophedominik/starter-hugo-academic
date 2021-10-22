@@ -1,6 +1,6 @@
 ---
-title: Better many small than a few large; how landscape configuration affects arthropod communities in rice agroecosystems
-subtitle: From the applied ecologist's blog; Bridging the gap between researchers, and practitioners, and policymakers
+title: Better many small than a few large how landscape configuration affects arthropod communities in rice agroecosystems
+subtitle: From the applied ecologist's blog Bridging the gap between researchers, and practitioners, and policymakers
 
 # Summary for listings and search engines
 summary: From the applied ecologist's blog; Bridging the gap between researchers, and practitioners, and policymakers
