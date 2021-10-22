@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Christophe Dominik
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
