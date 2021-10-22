@@ -7,13 +7,13 @@ event_url: ""
 location: Halle, Germany
 address:
 
-summary: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
+summary: "The effects of landscape heterogeneity on arthropod communities in tropical rice agro-ecosystems"
 abstract: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2015-09-03T16:30:00Z"
-date_end: "2015-09-03T16:45:00Z"
+date: "2019-01-31T16:00:00Z"
+date_end: "2019-01-31T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -32,7 +32,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://drive.google.com/open?id=1CMfcIZXhXyGtcecEe6iXdHLm2FKbfiHi"
 url_video: ""
 
 # Markdown Slides (optional).
