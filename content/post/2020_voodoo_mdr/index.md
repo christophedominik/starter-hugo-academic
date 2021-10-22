@@ -3,7 +3,7 @@ title: Viruses threaten the insect world
 subtitle: "MDR Sachsen: Viren bedrohen die Welt der Insekten"
 
 # Summary for listings and search engines
-summary: Viren bedrohen die Welt der Insekten
+summary: "MDR Sachsen: Viren bedrohen die Welt der Insekten"
 
 # Link this post with a project
 projects: [VOODOO]
