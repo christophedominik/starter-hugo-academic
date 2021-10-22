@@ -1,11 +1,11 @@
 ---
 title: "Landscape composition, configuration, and trophic interactions shape arthropod communities in rice agroecosystems"
 authors:
-- admin
-- Ralf Seppelt
-- Finbarr G. Horgan
-- Josef Settele
-- Tomáš Václavík
+- 'admin'
+- 'Ralf Seppelt'
+- 'Finbarr G. Horgan'
+- 'Josef Settele'
+- 'Tomáš Václavík'
 author_notes:
 
 date: "2015-09-01T00:00:00Z"
