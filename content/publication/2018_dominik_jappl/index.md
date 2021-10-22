@@ -3,6 +3,7 @@ title: "Landscape composition, configuration, and trophic interactions shape art
 authors:
 - admin
 - Robert Ford
+- Ralf Seppelt
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
