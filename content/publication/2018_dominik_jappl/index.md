@@ -6,11 +6,11 @@ authors:
 - Finbarr G. Horgan
 - Tomáš Václavík
 
-date: "2015-09-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Journal of Applied Ecology"
+publication_short: "*J Appl Ecol*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Our research shows how landscape heterogeneity and trophic interactions have different effects on different functional groups. While predator abundance was solely driven by the availability of prey, all other functional groups in the rice-arthropod community were significantly affected by the composition and configuration of surrounding landscape features. Landscape management aiming to improve biodiversity and biological control in rice agroecosystems should promote a diversity of land uses and habitat types within 100–300 m radii to reduce the presence of pests. Management practices should also focus on maintaining smaller rice patches and the structural connectivity of rice bunds to enhance populations of the natural enemies of rice pests. Future research should focus on the temporal and spatial manipulation of rice fields to maximize the effects of biological control."
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
