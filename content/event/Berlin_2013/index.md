@@ -1,16 +1,11 @@
 ---
-title: "Sustainable Land Management 2013"
+title: "Sustainable Land Management, 2013"
 
 event: "Sustainable Land Management status conference"
 event_url: "https://www.fona.de/en/sustainable-land-management-19763.html"
 
 location: Berlin, Germany
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
 summary: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
 abstract: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
@@ -31,17 +26,13 @@ tags: [LEGATO]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/open?id=113gqtv9Iwxv0-qbjklrjzEGIgOEccsj2"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -58,15 +49,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [LEGATO]
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
