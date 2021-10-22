@@ -5,7 +5,7 @@ authors:
 - Ralf Seppelt
 - Finbarr G. Horgan
 - Josef Settele
-- Tomáš Václavík
+- Tomas Vaclavik
 
 author_notes:
 
