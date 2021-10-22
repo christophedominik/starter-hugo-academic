@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Rice grains. Image collection of IRRI, International Rice Research Institute'
+  caption: 'Rice grains. Image collection of IRRI, International Rice Research Institute: [**via Wikimedia Commons**](https://jappliedecologyblog.files.wordpress.com/2018/08/rice-grains-e1533199378390.jpg?w=816)'
   focal_point: ""
   placement: 2
   preview_only: false
