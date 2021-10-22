@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Landscape composition, configuration, and trophic interactions shape arthropod communities in rice agroecosystems"
 authors:
 - admin
 - Robert Ford
