@@ -2,7 +2,7 @@
 title: "PhD defence, 2019"
 
 event: "PhD defence"
-event_url: ""
+event_url:
 
 location: Halle (Saale), Germany
 address:
