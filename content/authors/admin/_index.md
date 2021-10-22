@@ -32,10 +32,10 @@ education:
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
-    institution: UniversitÈ de La RÈunion
+    institution: Universit√© de La R√©union
     year: 2011
   - course: B.Sc. in Biology of Organisms and Populations
-    institution: UniversitÈ Henri-PoincarÈ (UHP Nancy-1)
+    institution: Universit√© Henri-Poincar√© (UHP Nancy-1)
     year: 2009
 
 # Social/Academic Networking
@@ -77,4 +77,4 @@ Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resum√©{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resum√É¬©{{< /staticref >}}.
