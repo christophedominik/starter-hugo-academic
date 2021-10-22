@@ -2,7 +2,7 @@
 title: "PhD defence"
 
 event: "PhD defence"
-event_url: "https://www.gfoe-conference.de/"
+event_url: ""
 
 location: Halle, Germany
 address:
