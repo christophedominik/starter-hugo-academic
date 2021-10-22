@@ -4,6 +4,7 @@ authors:
 - admin
 - Robert Ford
 - Ralf Seppelt
+- Finbarr G. Horgan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
