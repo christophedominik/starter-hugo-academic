@@ -1,5 +1,5 @@
 ---
-title: Sustainable Land Management 2013: Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines
+title: "Sustainable Land Management 2013: Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines""
 
 event: Sustainable Land Management status conference
 event_url: https://www.fona.de/en/sustainable-land-management-19763.html
