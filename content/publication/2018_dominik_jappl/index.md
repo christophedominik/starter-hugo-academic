@@ -35,7 +35,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
 url_dataset: 'https://doi.org/10.5061/dryad.6mv5372'
 url_poster: ''
 url_project: ''
