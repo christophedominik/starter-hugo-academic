@@ -32,7 +32,7 @@ slides: ""
 The main objective of "ECOSAL ATLANTIS project - Ecotourism in the Atlantic salt-marshes: a strategy for integral and sustainable development" is to arrive at a joint, integral and sustainable development in tourism, based on the cultural and natural heritage of traditional salt-producing areas of the Atlantic. The project revolves around three key activities that involve the touristic development of the saltpans of the Atlantic: Heritage, Territorial Development and Biodiversity and Eco-Tourism.
 
 # Funding
-EU INTERREG
+EU INTERREG  
 2007 to 2013
 
 # Official website

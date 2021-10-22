@@ -32,7 +32,7 @@ slides: ""
 [VOODOO](https://voodoo-project.eu/) will generate new knowledge on the disease risk in different landscapes to pollinators arising from the effects of urban and agricultural land-use on floral resources, pollinator foraging and viral pathogen coinfection and transmission. We will achieve this through measurement of field-sampled plant-pollinator-virus communities with high-resolution molecular analysis, laboratory and field experiments, modelling and analysing perceptions of disease risk among stakeholders.
 
 # Funding
-biodiversa
+biodiversa  
 January 2020 to September 2023
 
 # Official website
