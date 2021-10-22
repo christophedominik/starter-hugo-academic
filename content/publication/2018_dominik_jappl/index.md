@@ -36,14 +36,14 @@ featured: true
 
 # links:
 # - name: ""
-url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13226
-url_pdf: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
+# url: ''
+url_pdf: 'https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg'
 url_code: 
-url_dataset: ''
+url_dataset: 'https://doi.org/10.5061/dryad.6mv5372'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13226'
 url_video: ''
 
 # Featured image
