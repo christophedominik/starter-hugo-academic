@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://opendata.uni-halle.de//handle/1981185920/13988'
+url_source: ''
 url_video: ''
 
 # Featured image

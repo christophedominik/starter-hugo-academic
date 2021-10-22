@@ -121,7 +121,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/article/10.1007%2Fs10333-018-0656-9'
+url_source: ''
 url_video: ''
 
 # Featured image

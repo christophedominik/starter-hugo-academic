@@ -40,7 +40,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.tandfonline.com/doi/abs/10.1080/00063657.2012.715279'
+url_source: ''
 url_video: ''
 
 # Featured image

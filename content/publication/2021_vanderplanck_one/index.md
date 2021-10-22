@@ -80,7 +80,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://oneecosystem.pensoft.net/article/63653/list/2/'
+url_source: ''
 url_video: ''
 
 # Featured image
