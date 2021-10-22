@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines""
+summary: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
 abstract: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
 
 # Talk start and end times.
