@@ -9,10 +9,10 @@ summary: From the applied ecologist's blog; Bridging the gap between researchers
 projects: [LEGATO]
 
 # Date published
-date: "2020-08-06T00:00:00Z"
+date: "2018-08-06T00:00:00Z"
 
 # Date updated
-lastmod: "2020-08-06T00:00:00Z"
+lastmod: "2018-08-06T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
