@@ -10,7 +10,7 @@ authors:
 author_notes:
 
 date: "2018-07-01T00:00:00"
-doi: ""
+doi: "10.1111/1365-2664.13226"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -32,11 +32,11 @@ summary:
 
 tags:
 - LEGATO
-featured: false
+featured: true
 
 # links:
 # - name: ""
-url: "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2664.13226"
+url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13226
 url_pdf: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
 url_code: 
 url_dataset: ''
