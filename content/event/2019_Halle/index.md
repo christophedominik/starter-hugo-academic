@@ -4,7 +4,7 @@ title: "PhD defence, 2019"
 event: "PhD defence"
 event_url: ""
 
-location: Halle (Saale), Germany
+location: "Halle (Saale), Germany""
 address:
 
 summary: "The effects of landscape heterogeneity on arthropod communities in tropical rice agro-ecosystems"
