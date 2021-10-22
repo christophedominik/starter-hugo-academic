@@ -1,22 +1,20 @@
 ---
 title: LEGATO
-summary: **L**and-use intensity and **E**cological En**g**ineering – **A**ssessment **T**ools for risks and **O**pportunities in irrigated rice based production systems
+summary: "**L**and-use intensity and **E**cological En**g**ineering – **A**ssessment **T**ools for risks and **O**pportunities in irrigated rice based production systems"
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- LEGATO
+- Past
+date: "2018-04-27T00:00:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Rice terraces of Batad, Ifugao
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+url_website: "http://www.legato-project.net/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
