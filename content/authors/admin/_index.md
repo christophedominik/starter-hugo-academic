@@ -59,7 +59,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
-- icon: CV
+- icon: cv
   icon_pack: ai
   link: "static/uploads/cv.pdf"
 
