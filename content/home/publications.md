@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Click here to see all [publications](./publication/).
+Click here to find and see all [publications](./publication/).
 {{% /callout %}}

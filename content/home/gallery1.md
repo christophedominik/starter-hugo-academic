@@ -13,7 +13,7 @@ title: Gallery
 subtitle: Fielwork & stuff
 
 design:
-  columns: '3'
+  columns: '4'
 ---
 
 {{< gallery album="field" >}}
