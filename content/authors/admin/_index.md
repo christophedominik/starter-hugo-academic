@@ -29,6 +29,7 @@ interests:
 education:
   courses:
   - course: Ph.D in Natural Sciences
+    company_logo: org-x
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
