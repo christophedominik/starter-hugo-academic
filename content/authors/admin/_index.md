@@ -59,13 +59,14 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
+- icon: cv
+  icon_pack: ai
+  link: "static/uploads/cv.pdf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,4 +79,4 @@ I am an ecologist looking at patterns of biodiversity and associated ecosystem s
 
 My main research interests focus on landscape ecology, macroecology, agro-ecology, pollination services and biological control. I use different approaches and methods to better understand the effects of landscape on communities and ecosystems services, both in temperate (Europe) and tropical regions (South-East Asia).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
