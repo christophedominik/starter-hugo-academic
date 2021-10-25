@@ -47,7 +47,7 @@ UFZ and iDiv Support funds
 
 # Principal Investigators
 - Christophe Dominik
-- Oliver Schweiger
+- [Oliver Schweiger](https://www.ufz.de/index.php?en=38591)
 
 # Official website
 /

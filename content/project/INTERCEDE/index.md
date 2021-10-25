@@ -39,5 +39,10 @@ INTERCEDE will address the impacts of increasing landscape homogenization (reduc
 UFZ
 2020 - 2023
 
+# Principal investigators
+- [Anna Cord](https://tu-dresden.de/bu/umwelt/geo/geographie/landoeko/die-professur/beschaeftigte/prof-dr-anna-cord?set_language=en)
+- [Michael Beckmann](https://www.ufz.de/index.php?en=43858)
+- Christophe Dominik
+
 # Official website
 /

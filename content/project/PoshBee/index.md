@@ -15,6 +15,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/poshbee_eu
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -38,6 +42,9 @@ slides: ""
 # Funding
 Horizon 2020-EU  
 June 2018 to May 2023.
+
+# Principal Investigators
+- [Mark Brown](https://pure.royalholloway.ac.uk/portal/en/persons/mark-j-f-brown(77a0e94b-96b7-4118-a740-163e7867e3b1).html)
 
 # Official website
 [https://poshbee.eu/](https://poshbee.eu/)
