@@ -27,7 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-[All publications](./publication/).
+Click here to see all [publications](./publication/).
 {{% /callout %}}
