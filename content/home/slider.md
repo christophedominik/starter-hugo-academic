@@ -22,9 +22,9 @@ height = "400px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#FDFEFE"  # An HTML color value.
+  # overlay_color = "#FDFEFE"  # An HTML color value.
   overlay_img = "LEGATO_background.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
   [[item]]
   title = "Pollinators"
@@ -33,9 +33,9 @@ height = "400px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#333"  # An HTML color value.
+  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "poshbeeback.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
   title = "Salt-pans of Guérande, France"
@@ -44,7 +44,7 @@ height = "400px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#555"  # An HTML color value.
+  # overlay_color = "#555"  # An HTML color value.
   overlay_img = "guerande.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
