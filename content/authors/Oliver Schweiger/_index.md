@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oliver Schweiger
+title: [Oliver Schweiger](https://www.ufz.de/index.php?en=38591)
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,7 +13,7 @@ user_groups: ["Current Collaborators"]
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Helmholtz Centre for Environmental Research - UFZ
-  url: https://www.ufz.de/index.php?de=38591
+  url: https://www.ufz.de/index.php?en=38591
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -23,7 +23,6 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -35,7 +34,7 @@ social:
   link: mailto:oliver.schweiger@ufz.de
 - icon: home
   icon_pack: fas
-  link: https://www.ufz.de/index.php?de=38591
+  link: https://www.ufz.de/index.php?en=38591
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -51,8 +50,6 @@ email: ""
 highlight_name: false
 ---
 
-I am an ecologist looking at patterns of biodiversity and associated ecosystem services at different spatial and temporal scales. As a postdoctoral researcher in the department of Community Ecology at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?de=38591), I am currently investigating how pollinators and the services they provide are influenced by landscape and land-use intensity.  
+# Affiliation and Homepage
 
-My main research interests focus on landscape ecology, macroecology, agro-ecology, pollination services and biological control. I use different approaches and methods to better understand the effects of landscape on communities and ecosystems services, both in temperate (Europe) and tropical regions (South-East Asia).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+[Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38591)
