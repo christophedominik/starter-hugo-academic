@@ -59,13 +59,14 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
+- icon: CV
+  icon_pack: ai
+  link: "static/uploads/cv.pdf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: "static/uploads/cv.pdf"
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
