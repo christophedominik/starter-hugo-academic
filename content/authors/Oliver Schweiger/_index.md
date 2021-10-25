@@ -50,6 +50,4 @@ email: ""
 highlight_name: false
 ---
 
-# Affiliation and Homepage
-
-Senio scientist at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38591)
+Senior scientist at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38591)
