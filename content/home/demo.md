@@ -1,43 +1,56 @@
----
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
++++
+# Hero Carousel widget.
+widget = "hero_carousel"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
-# Activate this widget? true/false
-active: true
+# Order that this section will appear in.
+weight = 3
 
-# This file represents a page section.
-headless: true
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval = 4000
 
-# Order that this section appears on the page.
-weight: 15
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height = "300px"
 
-title: Hugo Academic Theme Demo
-subtitle:
+# Slides.
+# Duplicate an `[[item]]` block to add more slides.
+[[item]]
+  title = "Rice terraces of Batad, Philippines"
+  content = "Project LEGATO"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
-design:
-  columns: "1"
-  background:
-    image: open-book.jpg
-    image_darken: 1.0
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
----
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#FDFEFE"  # An HTML color value.
+  overlay_img = "LEGATO_background.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  # cta_label = "Project website"
+  # cta_url = "http://www.legato-project.net/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "link"
 
-[Explore similar templates](https://wowchemy.com/templates/)
+[[item]]
+  title = "Honey bee"
+  content = "Project PoshBee"
+  align = "right"
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "poshbeeback.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+[[item]]
+  title = "Salt-pans of Guérande, France"
+  content = "Project ECOSAL"
+  align = "left"
 
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "guerande.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /callout %}}
++++
