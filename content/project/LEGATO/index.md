@@ -34,6 +34,9 @@ slides: ""
 BMBF (German Federal Ministry of Education and Research)  
 March 2011 to February 2016.
 
+# Principal investigators
+- [Josef Settele](https://www.ufz.de/index.php?en=38572)
+
 # Official website
 [http://www.legato-project.net/](http://www.legato-project.net/)
 
