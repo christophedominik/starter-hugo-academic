@@ -45,10 +45,9 @@ Nature Restoration Plan in general.
 UFZ and iDiv Support funds
 2021
 
-# PI
-authors:
-- @admin
-- @Oliver Schweiger
+# Principal Investigators
+- Christophe Dominik
+- Oliver Schweiger
 
 # Official website
 /
