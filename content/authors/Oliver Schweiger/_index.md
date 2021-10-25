@@ -3,10 +3,12 @@
 title: Oliver Schweiger
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Senior Researcher
+
+user_groups: ["Researchers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
