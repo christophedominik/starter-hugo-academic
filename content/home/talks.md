@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Presentations'
-subtitle: 'Recent & Upcoming Talks'
+subtitle: 'Selected Presentations'
 
 content:
   # Page type to display. E.g. post, event, publication...
