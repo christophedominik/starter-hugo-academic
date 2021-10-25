@@ -37,7 +37,7 @@ INTERCEDE will address the impacts of increasing landscape homogenization (reduc
 
 # Funding
 UFZ
-2020
+2020 - 2023
 
 # Official website
 /
