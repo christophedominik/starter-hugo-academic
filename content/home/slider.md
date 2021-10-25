@@ -11,40 +11,40 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "300px"
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
    [[item]]
-  title = "Protecting biodiversity in a changing world"
-  # content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  title = "Rice terraces of Batad, Philippines"
+  content = "Project LEGATO"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#FDFEFE"  # An HTML color value.
   overlay_img = "LEGATO_background.png"  # Image path relative to your `static/media/` folder.
-  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
   [[item]]
-  title = "Protecting biodiversity in a changing world"
-  # content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  title = "Pollinators"
+  content = "Project PoshBee"
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "LEGATO_background.png"  # Image path relative to your `static/media/` folder.
-  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "poshbeeback.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
-  title = "Protecting biodiversity in a changing world"
-  # content = "We are looking for a postdoc to apply for a Marie-Curie fellowship about drone-ecology!"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  title = "Salt-pans of Guérande, France"
+  content = "Project ECOSAL"
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "LEGATO_background.png"  # Image path relative to your `static/media/` folder.
-  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "guerande.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
