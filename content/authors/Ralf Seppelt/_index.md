@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tomás Václavík
+title: Ralf Seppelt
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,8 +12,8 @@ user_groups: ["Current Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Palacký University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences
-  url: https://tomasvaclavik.wordpress.com/
+- name: Helmholtz Centre for Environmental Research - UFZ
+  url: https://www.ufz.de/index.php?en=37585
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -31,10 +31,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tomas.vaclavik@upol.cz
+  link: mailto:ralf.seppelt@ufz.de
 - icon: home
   icon_pack: fas
-  link: https://tomasvaclavik.wordpress.com/
+  link: https://www.ufz.de/index.php?en=37585
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -50,4 +50,4 @@ email: ""
 highlight_name: false
 ---
 
-Associate Professor at the [Palacký University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences](https://tomasvaclavik.wordpress.com/)
+Professor at the [Helmholtz Centre for Environmental Research - UFZ](https://www.ufz.de/index.php?en=37585)
