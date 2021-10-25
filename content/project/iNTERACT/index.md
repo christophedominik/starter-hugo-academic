@@ -47,8 +47,8 @@ UFZ and iDiv Support funds
 
 # PI
 authors:
-- admin
-- Oliver Schweiger
+- @admin
+- @Oliver Schweiger
 
 # Official website
 /
