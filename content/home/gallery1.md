@@ -10,10 +10,10 @@ headless: true
 weight: 66
 
 title: Gallery
-subtitle:
+subtitle: Fielwork & stuff
 
 design:
-  columns: '2'
+  columns: '3'
 ---
 
 {{< gallery album="field" >}}
