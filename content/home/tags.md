@@ -1,16 +1,13 @@
----
-# An instance of the Tag Cloud widget.
-# Docs: https://wowchemy.com/docs/page-builder/
-widget: tag_cloud
++++
+# Tag Cloud widget.
+active = true  # Activate this widget? true/false
 
-# This file represents a page section.
-headless: true
+title = "Tags"
+subtitle = ""
 
-# Order that this section appears on the page.
-weight: 120
-
-title: Popular Topics
-subtitle: ''
+# Order that this section will appear in.
+weight = 65
 
 ![](/img/tags.png)
----
+
++++
