@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Oliver Schweiger
+title: Jonna Heuschele
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Principal Investigator
+role: PhD Student
 
-user_groups: ["Current Collaborators"]
+user_groups: ["Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Helmholtz Centre for Environmental Research - UFZ
-  url: https://www.ufz.de/index.php?en=38591
+  url: https://www.ufz.de/index.php?en=101480
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -31,10 +31,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:oliver.schweiger@ufz.de
+  link: mailto:jonna.heuschele@ufz.de
 - icon: home
   icon_pack: fas
-  link: https://www.ufz.de/index.php?en=38591
+  link: https://www.ufz.de/index.php?en=101480
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -50,4 +50,4 @@ email: ""
 highlight_name: false
 ---
 
-Senior Researcher at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38591)
+PhD student at the [Helmholtz Centre for Environmental Research - UFZ](https://www.ufz.de/index.php?en=101480)
