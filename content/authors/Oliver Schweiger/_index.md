@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Oliver Schweiger](https://www.ufz.de/index.php?en=38591)
+title: Oliver Schweiger
 
 # Is this the primary user of the site?
 superuser: false
