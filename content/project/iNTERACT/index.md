@@ -46,7 +46,9 @@ UFZ and iDiv Support funds
 2021
 
 # PI
+authors:
 - admin
+- Oliver Schweiger
 
 # Official website
 /
