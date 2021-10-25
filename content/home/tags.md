@@ -1,4 +1,4 @@
-+++
+---
 # Tag Cloud widget.
 active = true  # Activate this widget? true/false
 
@@ -10,4 +10,4 @@ weight = 65
 
 ![](/img/tags.png)
 
-+++
+---
