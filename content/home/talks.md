@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
 title: 'Presentations'
-subtitle: 'Recent & Upcoming Talks'
+subtitle: 'Selected Presentations'
 
 content:
   # Page type to display. E.g. post, event, publication...
