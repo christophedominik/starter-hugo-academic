@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tomás Václavík
+title: "TomÃ¡Å¡ VÃ¡clavÃ­k"
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,7 +12,7 @@ user_groups: ["Current Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Palacký University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences
+- name: PalackÃ½ University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences
   url: https://tomasvaclavik.wordpress.com/
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,4 +50,4 @@ email: ""
 highlight_name: false
 ---
 
-Associate Professor at the [Palacký University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences](https://tomasvaclavik.wordpress.com/)
+Associate Professor at the [PalackÃ½ University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences](https://tomasvaclavik.wordpress.com/)
