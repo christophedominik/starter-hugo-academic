@@ -35,5 +35,8 @@ slides: ""
 HORIZON 2020 EU   
 September 2021 to August 2025
 
+# Principal Investigators
+- [Ingolf Steffan-Dewenter](https://www.biozentrum.uni-wuerzburg.de/en/zoo3/team/steffan-dewenter/)
+
 # Official website
 [https://www.safeguard.biozentrum.uni-wuerzburg.de](https://www.safeguard.biozentrum.uni-wuerzburg.de)
