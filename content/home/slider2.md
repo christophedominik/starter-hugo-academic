@@ -67,7 +67,7 @@ height = "400px; background-position:center; background-repeat: no-repeat; backg
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "File_-_006.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "File_006.jpeg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
@@ -78,7 +78,7 @@ height = "400px; background-position:center; background-repeat: no-repeat; backg
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "File_-_003.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "File_003.jpeg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
@@ -89,6 +89,6 @@ height = "400px; background-position:center; background-repeat: no-repeat; backg
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "File_-_005.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "File_005.jpeg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.2  # Darken the image. Value in range 0-1.  
 +++
