@@ -1,6 +1,9 @@
 widget: slider
+
 active: true
+
 headless: true  # This file represents a page section.
+
 weight = 3
 
 # ... Put Your Section Options Here (section position etc.) ...
