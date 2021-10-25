@@ -4,10 +4,8 @@ active: true
 
 headless: true  # This file represents a page section.
 
-weight = 3
 
 # ... Put Your Section Options Here (section position etc.) ...
-Projects
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
