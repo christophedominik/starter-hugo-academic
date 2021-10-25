@@ -46,9 +46,8 @@ UFZ and iDiv Support funds
 2021
 
 # PI
-authors:
-- admin
-- Oliver Schweiger
+- Christophe Dominik
+- [Oliver Schweiger](https://www.ufz.de/index.php?en=38591)
 
 # Official website
 /
