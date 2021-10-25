@@ -1,6 +1,6 @@
 ---
 # Tag Cloud widget.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Tags"
 subtitle = ""
