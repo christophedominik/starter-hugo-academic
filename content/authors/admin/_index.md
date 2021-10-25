@@ -38,7 +38,7 @@ education:
   - course: B.Sc. in Biology of Organisms and Populations
     institution: Université Henri-Poincaré (UHP Nancy-1)
     year: 2009
-    link: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
+    url: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
