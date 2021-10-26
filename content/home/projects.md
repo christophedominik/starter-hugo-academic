@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Projects
-subtitle: ''
+subtitle: 'Past & current'
 
 content:
   # Page type to display. E.g. project.
@@ -41,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

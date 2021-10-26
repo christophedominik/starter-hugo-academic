@@ -15,6 +15,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/Safeguard2021
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -34,6 +38,9 @@ slides: ""
 # Funding
 HORIZON 2020 EU   
 September 2021 to August 2025
+
+# Principal Investigators
+- [Ingolf Steffan-Dewenter](https://www.biozentrum.uni-wuerzburg.de/en/zoo3/team/steffan-dewenter/)
 
 # Official website
 [https://www.safeguard.biozentrum.uni-wuerzburg.de](https://www.safeguard.biozentrum.uni-wuerzburg.de)

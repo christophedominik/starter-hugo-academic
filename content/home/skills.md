@@ -3,11 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 2
 
 title: Skills
 subtitle:
@@ -16,18 +18,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description:
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: R & Statistics
+- description: 
+  icon: map-marked-alt
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Mapping (ArcGIS)
+- description: 
+  icon: bug
   icon_pack: fas
-  name: Photography
+  name: Entomology
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

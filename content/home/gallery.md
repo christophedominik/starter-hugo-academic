@@ -3,17 +3,19 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 66
 
-title: Gallery
+title: Popular Topics
 subtitle:
 
 design:
   columns: '2'
 ---
 
-{{< gallery album="themes" >}}
+{{< figure src="/img/tags.png" >}}
