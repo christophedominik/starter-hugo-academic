@@ -1,5 +1,5 @@
 ---
-title: Outreach
+title: Posts
 cms_exclude: true
 
 # View.
