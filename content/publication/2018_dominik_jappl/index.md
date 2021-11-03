@@ -4,6 +4,7 @@ authors:
 - admin
 - Ralf Seppelt
 - Finbarr G. Horgan
+- Josef Settele
 - Tomáš Václavík
 
 date: "2018-07-01T00:00:00Z"

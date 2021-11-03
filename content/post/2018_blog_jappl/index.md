@@ -3,7 +3,7 @@ title: "Better many small than a few large: how landscape configuration affects 
 subtitle: "From the applied ecologist's blog: Bridging the gap between researchers, and practitioners, and policymakers"
 
 # Summary for listings and search engines
-summary: "From the applied ecologist's blog: Bridging the gap between researchers, and practitioners, and policymakers"
+summary: "Bridging the gap between researchers, and practitioners, and policymakers"
 
 # Link this post with a project
 projects: [LEGATO]
@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-- Juan Corley
+- The applied ecologist's blog
 
 tags:
 - LEGATO
@@ -38,7 +38,7 @@ categories: ""
 
 ---
 
-Juan Corley, an Associate Editor of [Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/journal/13652664) has written a blog post promoting our published article [*Landscape composition, configuration, and trophic interactions shape arthropod communities in rice agroecosystems*](https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg).
+Juan Corley, an Associate Editor of [Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/journal/13652664) has written a blog post promoting our published article *Landscape composition, configuration, and trophic interactions shape arthropod communities in rice agroecosystems*.
 
 The English version is accessible at the following link: 
 

@@ -1,6 +1,6 @@
 ---
 title: iNTERACT
-summary: "impacts of laNdscape structure, floral resources and land-use intensity on the healTh of bEneficial aRthropods in AgroeCosysTems"
+summary: "Impacts of landscape structure, floral resources and land-use intensity on the health of beneficial arthropods in agroecosystems"
 
 tags:
 - iNTERACT
