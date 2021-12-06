@@ -10,7 +10,7 @@ headless: true
 weight: 66
 
 title: Gallery
-subtitle: Fielwork & stuff
+subtitle: Fieldwork & stuff
 
 design:
   columns: '4'

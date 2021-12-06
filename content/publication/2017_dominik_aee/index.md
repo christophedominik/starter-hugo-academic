@@ -5,6 +5,7 @@ authors:
 - Ralf Seppelt
 - Finbarr G. Horgan
 - Leonardo Marquez
+- Josef Settele
 - Tomáš Václavík
 
 date: "2017-08-01T00:00:00Z"
