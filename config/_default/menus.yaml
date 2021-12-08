@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 40    
   - name: Outreach
-    url: '#outreach'
+    url: '#posts'
     weight: 50
   - name: People
     url: '#people'
