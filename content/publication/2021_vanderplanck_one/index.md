@@ -58,7 +58,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*One Ecosystem*"
-publication_short: "*One Ecosyst*"
+publication_short:
 
 abstract: "Current global change substantially threatens pollinators, which directly impacts the pollination services underpinning the stability, structure and functioning of ecosystems. Amongst these threats, many synergistic drivers, such as habitat destruction and fragmentation, increasing use of agrochemicals, decreasing resource diversity, as well as climate change, are known to affect wild and managed bees. Therefore, reliable indicators for pollinator sensitivity to such threats are needed. Biological traits, such as phenotype (e.g. shape, size and asymmetry) and storage reserves (e.g. fat body size), are important pollinator traits linked to reproductive success, immunity, resilience and foraging efficiency and, therefore, could serve as valuable markers of bee health and pollination service potential.
 

@@ -101,7 +101,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Paddy and Water Environment*"
-publication_short: "*PAWE*"
+publication_short:
 
 abstract: "The present special issue of Paddy and Water Environment (PAWE) focuses on Ecosystem Services in Irrigated Rice Landscapes as dealt with in the project “LEGATO—Land-use intensity and Ecological enGineering—Assessment Tools for risks and Opportunities in irrigated rice based production systems’’ (Settele et al. 2015; http://www.legato-project.net/). The project aimed at advancing long-term sustainable development of irrigated rice landscapes against risks arising from multiple aspects of global change. It encompassed 20 contract partners from six countries and two international organisations as core members as well as numerous associated partners and/or advisory board members (see addresses of authors). LEGATO was part of the framework programme ‘FONA—Research for Sustainability’ (a funding scheme of the German Federal Ministry of Education and Research—BMBF) and was supported by GLUES—the scientific coordination and synthesis project (http://modul-a.nachhaltiges-landmanagement.de/en/scientific-coordination-glues/)."
 
