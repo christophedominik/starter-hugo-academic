@@ -6,9 +6,9 @@ title: Oliver Schweiger
 superuser: false
 
 # Role/position/tagline
-role: Principal Investigator
+role: Researcher
 
-user_groups: ["Current Collaborators"]
+user_groups: ["Principal Investigator"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,13 +16,16 @@ organizations:
   url: https://www.ufz.de/index.php?en=38591
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Senior Researcher at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38591)
 
 # Interests to show in About widget
 interests:
+- Community Ecology
+- Landscape Ecology
+- Pollination Ecology
 
 # Education to show in About widget
-education:
+education: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,5 +52,3 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Senior Researcher at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38591)
