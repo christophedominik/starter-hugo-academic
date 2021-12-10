@@ -18,8 +18,7 @@ organizations:
 bio:
 
 # Interests to show in About widget
-interests: "Restoration ecology and ecological engineering"
-
+interests: 
 
 # Education to show in About widget
 education:
