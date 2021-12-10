@@ -15,12 +15,10 @@ organizations:
 - name: University College Dublin
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Researcher at the University College Dublin
 
 # Interests to show in About widget
 interests:
-- Restoration ecology
-- Ecological engineering
 
 # Education to show in About widget
 education:
@@ -47,5 +45,3 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Researcher at the University College Dublin

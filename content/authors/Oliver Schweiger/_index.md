@@ -20,9 +20,6 @@ bio: Senior Researcher at the [Helmholtz Centre for Environmental Research (UFZ)
 
 # Interests to show in About widget
 interests:
-- Community Ecology
-- Landscape Ecology
-- Pollination Ecology
 
 # Education to show in About widget
 education: 
