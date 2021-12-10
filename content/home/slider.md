@@ -27,14 +27,14 @@ height = "400px; background-position:center; background-repeat: no-repeat; backg
   # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
   [[item]]
-  title = "Pollinators"
+  title = "Oilseed rape fields, Germany"
   content = "Project PoshBee"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "poshbeeback.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "osr.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
