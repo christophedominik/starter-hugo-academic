@@ -34,7 +34,7 @@ height = "400px; background-position:center; background-repeat: no-repeat; backg
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "osr.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "osr.jpeg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
