@@ -18,15 +18,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Statistical analyses
+- description: 
   icon: r-project
   icon_pack: fab
-  name: R
-- description: Habitat mapping and landscape analyses
+  name: R & Statistics
+- description: 
   icon: map-marked-alt
   icon_pack: fas
-  name: GIS
-- description: Insects providing pollination and biological control services
+  name: GIS tools
+- description: 
   icon: bug
   icon_pack: fas
   name: Entomology
