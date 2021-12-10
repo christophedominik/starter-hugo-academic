@@ -29,7 +29,7 @@ height = "400px; background-position:center; background-repeat: no-repeat; backg
   [[item]]
   title = "Oilseed rape fields, Germany"
   content = "Project PoshBee"
-  align = "right"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
