@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Applied Ecology*"
-publication_short: "*J Appl Ecol*"
+publication_short:
 
 abstract: "Our research shows how landscape heterogeneity and trophic interactions have different effects on different functional groups. While predator abundance was solely driven by the availability of prey, all other functional groups in the rice-arthropod community were significantly affected by the composition and configuration of surrounding landscape features. Landscape management aiming to improve biodiversity and biological control in rice agroecosystems should promote a diversity of land uses and habitat types within 100–300 m radii to reduce the presence of pests. Management practices should also focus on maintaining smaller rice patches and the structural connectivity of rice bunds to enhance populations of the natural enemies of rice pests. Future research should focus on the temporal and spatial manipulation of rice fields to maximize the effects of biological control."
 
