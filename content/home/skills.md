@@ -22,11 +22,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: Habitat mapping
+- description: Habitat mapping and landscape analyses
   icon: map-marked-alt
   icon_pack: fas
-  name: ArcGIS
-- description: 
+  name: GIS
+- description: Insects providing pollination and biological control services
   icon: bug
   icon_pack: fas
   name: Entomology
