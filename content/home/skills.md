@@ -18,14 +18,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
+- description: Statistical analyses
   icon: r-project
   icon_pack: fab
-  name: R & Statistics
-- description: 
+  name: R
+- description: Habitat mapping
   icon: map-marked-alt
   icon_pack: fas
-  name: Mapping (ArcGIS)
+  name: ArcGIS
 - description: 
   icon: bug
   icon_pack: fas
