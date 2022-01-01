@@ -9,10 +9,10 @@ summary: Fieldwork in the rice fields and measuring landscape heterogeneity
 projects: [LEGATO]
 
 # Date published
-date: "2018-08-06T00:00:00Z"
+date: "2018-07-12T00:00:00Z"
 
 # Date updated
-lastmod: "2018-08-06T00:00:00Z"
+lastmod: "2018-07-12T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
