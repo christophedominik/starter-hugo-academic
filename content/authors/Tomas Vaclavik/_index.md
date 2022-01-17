@@ -19,7 +19,7 @@ organizations:
 bio:
 
 # Interests to show in About widget
-interests:
+tags:
 - "LEGATO"
 
 # Education to show in About widget

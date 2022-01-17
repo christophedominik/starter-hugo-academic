@@ -22,6 +22,7 @@ bio:
 interests:
 - "LEGATO"
 - "VOODOO"
+- "INTERCEDE"
 
 # Education to show in About widget
 education:
