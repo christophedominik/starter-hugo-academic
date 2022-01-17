@@ -19,8 +19,8 @@ organizations:
 bio:
 
 # Interests to show in About widget
-tags:
-- "LEGATO"
+interests:
+- [LEGATO]({{< relref "/project/LEGATO" >}})
 
 # Education to show in About widget
 education:
