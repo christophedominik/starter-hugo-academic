@@ -19,7 +19,8 @@ organizations:
 bio:
 
 # Interests to show in About widget
-interests: Safeguard
+interests: 
+- "Safeguard"
 
 # Education to show in About widget
 education:
