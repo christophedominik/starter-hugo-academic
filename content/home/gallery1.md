@@ -14,6 +14,17 @@ subtitle: Fieldwork & stuff
 
 design:
   columns: '4'
+  
+gallery_item:
+- album: "field"
+  image: LEGATO_01.png
+  caption: Rice terraces of Batad
+- album: "field"
+  image: LEGATO_02.jpg
+  caption: Write your image 2 caption here
+  
+  
+  
 ---
 
 {{< gallery album="field" >}}
