@@ -56,12 +56,12 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=GII0MqEAAAAJ&h
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/P-2109-2019/  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/P-2109-2019/
 - icon: cv
   icon_pack: ai
   link: "uploads/cv.pdf"
