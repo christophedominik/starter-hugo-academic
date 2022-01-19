@@ -20,6 +20,9 @@ bio:
 
 # Interests to show in About widget
 interests:
+- "INTERCEDE"
+- "iNTERACT"
+- "VOODOO"
 
 # Education to show in About widget
 education:

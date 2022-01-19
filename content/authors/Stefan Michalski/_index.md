@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Felipe-Lucia
+title: Stefan Michalski
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,14 +13,14 @@ user_groups: ["Current Collaborators"]
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Helmholtz Centre for Environmental Research - UFZ
-  url: https://www.ufz.de/index.php?en=45282
+  url: https://www.ufz.de/index.php?en=38622
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
-interests:
-- "INTERCEDE"
+interests: 
+- "Safeguard"
 
 # Education to show in About widget
 education:
@@ -32,10 +32,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:maria.felipe-lucia@ufz.de
+  link: mailto:stefan.michalski@ufz.de
 - icon: home
   icon_pack: fas
-  link: https://www.ufz.de/index.php?en=45282
+  link: https://www.ufz.de/index.php?en=38622
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -51,4 +51,4 @@ email: ""
 highlight_name: false
 ---
 
-Researcher at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=45282)
+Researcher at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=38622)

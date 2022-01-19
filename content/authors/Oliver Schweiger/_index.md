@@ -20,6 +20,11 @@ bio: Senior Researcher at the [Helmholtz Centre for Environmental Research (UFZ)
 
 # Interests to show in About widget
 interests:
+- "PoshBee"
+- "VOODOO"
+- "INTERCEDE"
+- "iNTERACT"
+- "Safeguard"
 
 # Education to show in About widget
 education: 

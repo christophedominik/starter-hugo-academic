@@ -19,6 +19,7 @@ bio: Researcher at the University College Dublin
 
 # Interests to show in About widget
 interests:
+- "LEGATO"
 
 # Education to show in About widget
 education:
