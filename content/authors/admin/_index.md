@@ -59,6 +59,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/P-2109-2019/
 - icon: cv
   icon_pack: ai
   link: "uploads/cv.pdf"
