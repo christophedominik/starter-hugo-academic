@@ -41,7 +41,7 @@ url_dataset: 'http://dx.doi.org/10.5061/dryad.pg4f4qrqn'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2560'
+url_source: ''
 url_video: ''
 
 # Featured image
