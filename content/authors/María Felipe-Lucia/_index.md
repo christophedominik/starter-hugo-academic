@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Felipe-Lucia
+title: María Felipe-Lucia
 
 # Is this the primary user of the site?
 superuser: false
