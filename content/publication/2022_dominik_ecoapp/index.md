@@ -33,10 +33,9 @@ tags:
 featured: true
 
 # links:
- - name: "pdf"
-   url: "https://drive.google.com/file/d/1K9NXmTg_wYGynJKI1v5wKdLHgu8Im33z/view?usp=sharing"
-   icon_pack: fab
-   icon: 
+ - name: 'pdf'
+   url: 'https://drive.google.com/file/d/1K9NXmTg_wYGynJKI1v5wKdLHgu8Im33z/view?usp=sharing'
+
    
 url_pdf: ''
 url_code: ''
