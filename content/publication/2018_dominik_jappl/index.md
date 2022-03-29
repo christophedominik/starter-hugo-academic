@@ -32,9 +32,17 @@ tags:
 - LEGATO
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: PDF
+   url: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
+   icon_pack: fas
+   icon: file-pdf
+   
+ - name: Dataset
+   url: https://doi.org/10.5061/dryad.6mv5372
+   icon_pack: fas
+   icon: database
+   
 url_pdf: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
 url_code: ''
 url_dataset: 'https://doi.org/10.5061/dryad.6mv5372'
