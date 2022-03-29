@@ -32,13 +32,13 @@ tags:
 - LEGATO
 featured: true
 
-# links:
- - name: arXiv
-   url: https://arxiv.org/abs/1905.12388
+links:
+ - name: 'pdf'
+   url: 'https://drive.google.com/file/d/1K9NXmTg_wYGynJKI1v5wKdLHgu8Im33z/view?usp=sharing'
    icon_pack: fab
-   icon:
+   icon: 
    
-url_pdf: 'https://drive.google.com/file/d/1K9NXmTg_wYGynJKI1v5wKdLHgu8Im33z/view?usp=sharing'
+url_pdf: ''
 url_code: ''
 url_dataset: 'http://dx.doi.org/10.5061/dryad.pg4f4qrqn'
 url_poster: ''
