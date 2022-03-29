@@ -112,10 +112,13 @@ tags:
 - LEGATO
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://drive.google.com/open?id=1yWKgBuGqhxMloiIBRDuPAU39F9E8MKrn
+links:
+ - name: PDF
+   url: https://drive.google.com/open?id=1yWKgBuGqhxMloiIBRDuPAU39F9E8MKrn
+   icon_pack: fas
+   icon: file-pdf
+   
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

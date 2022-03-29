@@ -28,10 +28,13 @@ tags:
 - LEGATO
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
+links:
+ - name: PDF
+   url: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
+   icon_pack: fas
+   icon: graduation-cap
+   
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

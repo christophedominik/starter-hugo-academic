@@ -71,10 +71,13 @@ tags:
 - PoshBee
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://oneecosystem.pensoft.net/article/63653/download/pdf/
+links:
+ - name: PDF
+   url: https://oneecosystem.pensoft.net/article/63653/download/pdf/
+   icon_pack: fas
+   icon: file-pdf
+   
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
