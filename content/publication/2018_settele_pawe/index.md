@@ -88,7 +88,7 @@ authors:
  - Martin Wiemers
  
 date: "2018-07-04T00:00:00Z"
-doi: "https://doi.org/10.1007/s10333-018-0656-9"
+#doi: "https://doi.org/10.1007/s10333-018-0656-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-04T00:00:00Z"
@@ -113,6 +113,11 @@ tags:
 featured: false
 
 links:
+ - name: DOI
+   url: https://doi.org/10.1007/s10333-018-0656-9
+   icon_pack: ai
+   icon: closed-access
+
  - name: PDF
    url: https://drive.google.com/open?id=1yWKgBuGqhxMloiIBRDuPAU39F9E8MKrn
    icon_pack: fas

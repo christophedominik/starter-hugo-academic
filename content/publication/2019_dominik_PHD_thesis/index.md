@@ -4,7 +4,7 @@ authors:
 - admin
 
 date: "2019-01-31T00:00:00Z"
-doi: "http://dx.doi.org/10.25673/13861"
+#doi: "http://dx.doi.org/10.25673/13861"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-31T00:00:00Z"
@@ -29,6 +29,11 @@ tags:
 featured: false
 
 links:
+ - name: DOI
+   url: http://dx.doi.org/10.25673/13861
+   icon_pack: ai
+   icon: open-access
+   
  - name: PDF
    url: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
    icon_pack: fas

@@ -7,7 +7,7 @@ authors:
 - Laurent Godet
 
 date: "2012-08-14T00:00:00Z"
-doi: "https://doi.org/10.1080/00063657.2012.715279"
+#doi: "https://doi.org/10.1080/00063657.2012.715279"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-08-14T00:00:00Z"
@@ -32,6 +32,11 @@ tags:
 featured: false
 
 links:
+ - name: DOI
+   url: https://doi.org/10.1080/00063657.2012.715279
+   icon_pack: ai
+   icon: closed-access
+   
  - name: PDF
    url: https://drive.google.com/open?id=0Bx3o7ymqHXGiLTBVWmFKOWJydm8
    icon_pack: fas

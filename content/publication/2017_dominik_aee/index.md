@@ -9,7 +9,7 @@ authors:
 - Tomáš Václavík
 
 date: "2017-08-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.agee.2017.06.011"
+#doi: "https://doi.org/10.1016/j.agee.2017.06.011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-08-01T00:00:00Z"
@@ -34,6 +34,11 @@ tags:
 featured: false
 
 links:
+ - name: DOI
+   url: https://doi.org/10.1016/j.agee.2017.06.011
+   icon_pack: ai
+   icon: closed-access
+   
  - name: PDF
    url: https://drive.google.com/open?id=1ckP1dc6i4L4oVLPwCFnqWcT2nxP5Xput
    icon_pack: fas
