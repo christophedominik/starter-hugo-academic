@@ -44,7 +44,7 @@ links:
    icon_pack: fas
    icon: file-pdf
    
-url_pdf: https://drive.google.com/open?id=1ckP1dc6i4L4oVLPwCFnqWcT2nxP5Xput
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
