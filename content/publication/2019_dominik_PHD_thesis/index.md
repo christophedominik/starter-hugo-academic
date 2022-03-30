@@ -16,7 +16,7 @@ publishDate: "2019-01-31T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Martin-Luther-Universität Halle-Wittenberg*"
+publication: "PhD Thesis, *Martin-Luther-Universität Halle-Wittenberg*"
 publication_short: ""
 
 abstract: "Irrigated rice croplands are among the most biologically diverse agroecosystems globally. However, this biodiversity is threatened by agricultural intensification and homogenization of farmed areas, resulting in a degradation of ecosystem services such as natural pest regulation. While evidence exists that increasing landscape heterogeneity in some agroecosystems can enhance natural enemy populations and promote bio-control, little is known about the multi-scale effects of landscape composition and configuration on arthropod communities in rice agroecosystems. In this thesis, I examined the influence of landscape heterogeneity on the distribution of arthropods in three rice-production regions in the Philippines and derived practical recommendations to improve biodiversity and biological control in rice production systems. Through the different chapters of this thesis, I measured landscape heterogeneity at different levels of complexity and spatial scales, and tested its effect on different types of the arthropod biodiversity (taxonomic and functional diversity)."
