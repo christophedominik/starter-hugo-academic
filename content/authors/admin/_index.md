@@ -32,6 +32,8 @@ education:
     company_logo: org-x
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
+    icon_pack: fas
+    icon: database
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
     institution: Université de La Réunion
     year: 2011
