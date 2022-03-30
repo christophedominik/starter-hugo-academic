@@ -37,7 +37,7 @@ links:
  - name: PDF
    url: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
    icon_pack: fas
-   icon: graduation-cap
+   icon: file-pdf
    
 url_pdf: 
 url_code: ''
