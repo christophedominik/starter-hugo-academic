@@ -29,7 +29,7 @@ slides: ""
 ---
 
 # Description
-INTERCEDE will address the impacts of increasing landscape homogenization (reduced landscape heterogeneity, removal of remnant semi-natural vegetation) and crop specialization on farmland biodiversity and agricultural yields. Both aspects are expected to become more relevant with climate change and resulting pressures on agriculture (drought, extreme events). To address our central aim to understand agricultural landscapes as social-ecological systems, we have designed three interdisciplinary projects that will be integrated through specific college synthesis activities (Review paper, Synthesis of historic changes in landscape structure and crop diversity, Synthesis of effects of land use intensification on biodiversity and yield; see section 2):
+[INTERCEDE](https://www.ufz.de/index.php?en=49370) will address the impacts of increasing landscape homogenization (reduced landscape heterogeneity, removal of remnant semi-natural vegetation) and crop specialization on farmland biodiversity and agricultural yields. Both aspects are expected to become more relevant with climate change and resulting pressures on agriculture (drought, extreme events). To address our central aim to understand agricultural landscapes as social-ecological systems, we have designed three interdisciplinary projects that will be integrated through specific college synthesis activities (Review paper, Synthesis of historic changes in landscape structure and crop diversity, Synthesis of effects of land use intensification on biodiversity and yield; see section 2):
 
 * Project I: Scaling up predictions in mixed-use agricultural systems
 * Project II: Effects of landscape heterogeneity and crop diversity on biological pest control and pollinator health
@@ -45,4 +45,4 @@ UFZ
 - Christophe Dominik
 
 # Official website
-/
+[https://www.ufz.de/index.php?en=49370](https://www.ufz.de/index.php?en=49370)
