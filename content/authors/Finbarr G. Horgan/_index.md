@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Tomáš Václavík"
+title: "Finbarr G. Horgan"
 
 # Is this the primary user of the site?
 superuser: false
@@ -8,15 +8,14 @@ superuser: false
 # Role/position/tagline
 role: Researcher
 
-user_groups: ["Current Collaborators"]
+user_groups: ["Past Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Palacký University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences
-  url: https://tomasvaclavik.wordpress.com/
+- name: University College Dublin
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Researcher at the University College Dublin
 
 # Interests to show in About widget
 interests:
@@ -32,10 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tomas.vaclavik@upol.cz
-- icon: home
-  icon_pack: fas
-  link: https://tomasvaclavik.wordpress.com/
+  link: mailto:f.horgan@ecolaverna.org
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -50,5 +46,3 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Associate Professor at the [Palacký University Olomouc, Faculty of Science Department of Ecology & Environmental Sciences](https://tomasvaclavik.wordpress.com/)
