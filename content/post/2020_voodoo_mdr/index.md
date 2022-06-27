@@ -38,4 +38,4 @@ categories: ""
 
 ---
 
-Christophe Dominik, Liu Yicong and Jonna Heuschele, talk about VOODOO and the interactions between viruses, plants and pollinators. Check out this short video (in German) : https://mdr.de/insektensommer
+Christophe Dominik, Liu Yicong and Jonna Heuschele, talk about VOODOO and the interactions between viruses, plants and pollinators. Check out this short video (in German) : https://www.mdr.de/insektensommer/viren-112.html
