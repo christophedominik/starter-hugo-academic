@@ -45,7 +45,7 @@ authors:
  - Maxence Gérard
 
 date: "2021-05-17T00:00:00Z"
-doi: "https://doi.org/10.3897/oneeco.6.e63653"
+# doi: "https://doi.org/10.3897/oneeco.6.e63653"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-17T00:00:00Z"
@@ -72,6 +72,11 @@ tags:
 featured: false
 
 links:
+ - name: DOI
+   url: https://doi.org/10.3897/oneeco.6.e63653
+   icon_pack: ai
+   icon: open-access
+   
  - name: PDF
    url: https://oneecosystem.pensoft.net/article/63653/download/pdf/
    icon_pack: fas

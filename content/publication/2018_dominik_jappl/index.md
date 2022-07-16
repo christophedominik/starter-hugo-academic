@@ -8,7 +8,7 @@ authors:
 - Tomáš Václavík
 
 date: "2018-07-01T00:00:00Z"
-doi: "https://doi.org/10.1111/1365-2664.13226"
+#doi: "https://doi.org/10.1111/1365-2664.13226"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-01T00:00:00Z"
@@ -33,6 +33,11 @@ tags:
 featured: false
 
 links:
+ - name: DOI
+   url: https://doi.org/10.1111/1365-2664.13226
+   icon_pack: ai
+   icon: open-access
+   
  - name: PDF
    url: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
    icon_pack: fas

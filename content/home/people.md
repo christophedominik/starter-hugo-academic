@@ -23,6 +23,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Past Collaborators
 design:
   show_interests: true
   show_role: true
