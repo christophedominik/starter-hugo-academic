@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: Master Student
 
-user_groups: ["Students"]
+user_groups: ["Alumni"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
