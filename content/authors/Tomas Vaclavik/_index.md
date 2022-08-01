@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: Researcher
 
-user_groups: ["Past Collaborators"]
+user_groups: ["Current Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
