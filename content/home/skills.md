@@ -36,7 +36,7 @@ feature:
   name: Entomological fieldwork
 - description: Pollinator-plant networks, nectar extraction, pollen collection, colony performance
   icon: bee
-  icon_pack: fas
+  icon_pack: fab
   name: Pollinator fieldwork
   
 # Uncomment to use emoji icons.
