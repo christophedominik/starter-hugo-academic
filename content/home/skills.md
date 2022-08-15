@@ -18,19 +18,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: Experience in leading and managing multiple interdisciplinary projects, and in supervising staff, doctoral and master students.
+  icon: user-plus
+  icon_pack: fas
+  name: General
 - description: 
   icon: r-project
   icon_pack: fab
-  name: R & Statistics
-- description: 
+  name: R & Statistical analyses
+- description: ArcGIS 3.1/9/10/Pro
   icon: map-marked-alt
   icon_pack: fas
-  name: GIS tools
-- description: 
+  name: Mapping
+- description: Experimental design, arthropod sampling (Sweep net / Blow-vac / pitfall traps)
   icon: bug
   icon_pack: fas
-  name: Entomology
-
+  name: Entomological fieldwork
+- description: Pollinator-plant networks, nectar extraction, pollen collection, colony performance
+  icon: bee
+  icon_pack: fas
+  name: Pollinator fieldwork
+  
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji
