@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -29,7 +29,7 @@ feature:
 - description: ArcGIS 3.1/9/10/Pro, QGIS
   icon: map-marked-alt
   icon_pack: fas
-  name: Mapping
+  name: GIS
 - description: Experimental design, arthropod sampling (Pollinator-plant networks | Blow-vac | pitfall traps | nectar & pollen collection | colony performance | etc.)
   icon: bug
   icon_pack: fas
