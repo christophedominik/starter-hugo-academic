@@ -21,24 +21,20 @@ feature:
 - description: Experience in leading and managing multiple interdisciplinary projects, and in supervising staff, doctoral and master students.
   icon: user-plus
   icon_pack: fas
-  name: General
-- description: 
+  name: Project management
+- description: R
   icon: r-project
   icon_pack: fab
-  name: R & Statistical analyses
-- description: ArcGIS 3.1/9/10/Pro
+  name: Statistical analyses
+- description: ArcGIS 3.1/9/10/Pro, QGIS
   icon: map-marked-alt
   icon_pack: fas
   name: Mapping
-- description: Experimental design, arthropod sampling (Sweep net / Blow-vac / pitfall traps)
+- description: Experimental design, arthropod sampling (Pollinator-plant networks | Blow-vac | pitfall traps | nectar & pollen collection | colony performance | etc.)
   icon: bug
   icon_pack: fas
   name: Entomological fieldwork
-- description: Pollinator-plant networks, nectar extraction, pollen collection, colony performance
-  icon: bee
-  icon_pack: fab
-  name: Pollinator fieldwork
-  
+
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji
