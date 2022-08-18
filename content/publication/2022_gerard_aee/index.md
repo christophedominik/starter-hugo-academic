@@ -33,6 +33,11 @@ tags:
 featured: no
 
 links:
+ - name: DOI
+   url: https://doi.org/10.1016/j.agee.2022.108107
+   icon_pack: ai
+   icon: open-access
+   
  - name: PDF
    url: https://drive.google.com/file/d/1JZI8fJea9guQs_xg4ogSjYf9rLWtMe8j/view?usp=sharing
    icon_pack: fas
