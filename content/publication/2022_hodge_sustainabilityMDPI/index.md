@@ -29,7 +29,7 @@ authors:
 - Sebastien N. Voisin
 - Tomasz Kiljanek
 - Irene Bottero
-- Christophe Dominik
+- admin
 - Giovanni Tamburini
 - Maria Helena Pereira-Peixoto
 - Dimitry Wintermantel
