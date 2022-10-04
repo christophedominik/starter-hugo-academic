@@ -31,6 +31,7 @@ education:
   - course: Ph.D in Natural Sciences
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
+    link: "uploads/cv.pdf"
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
     institution: Université de La Réunion
     year: 2011
