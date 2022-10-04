@@ -10,9 +10,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Helmholtz Centre for Environmental Research - UFZ BZF
+- name: Helmholtz Centre for Environmental Research - UFZ
   url: https://www.ufz.de/index.php?de=36737
-- company_logo: https://studieren.de/uploads/tx_assearchengine/logo/mlu-halle-logo_3e360f.svg  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include landscape ecology, pollination ecology, biological control, gut microbiome, and agroecology.
@@ -30,12 +29,8 @@ interests:
 education:
   courses:
   - course: Ph.D in Natural Sciences
-    company_logo: https://studieren.de/uploads/tx_assearchengine/logo/mlu-halle-logo_3e360f.svg
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
-    icon_pack: fas
-    icon: database
-    link: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
     institution: Université de La Réunion
     year: 2011
