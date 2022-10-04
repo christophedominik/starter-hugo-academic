@@ -12,6 +12,7 @@ role: Postdoctoral Researcher
 organizations:
 - name: Helmholtz Centre for Environmental Research - UFZ
   url: https://www.ufz.de/index.php?de=36737
+- company_logo: https://studieren.de/uploads/tx_assearchengine/logo/mlu-halle-logo_3e360f.svg  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include landscape ecology, pollination ecology, biological control, gut microbiome, and agroecology.
