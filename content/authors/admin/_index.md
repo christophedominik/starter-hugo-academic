@@ -34,6 +34,7 @@ education:
     year: 2019
     icon_pack: fas
     icon: database
+    link: https://drive.google.com/open?id=1iE2B809_DU5TzJZtlYcCo-BaeH72PmTl
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
     institution: Université de La Réunion
     year: 2011
