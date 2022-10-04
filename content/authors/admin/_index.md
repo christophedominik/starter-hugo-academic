@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Helmholtz Centre for Environmental Research - UFZ
+- name: Helmholtz Centre for Environmental Research - UFZ BZF
   url: https://www.ufz.de/index.php?de=36737
 - company_logo: https://studieren.de/uploads/tx_assearchengine/logo/mlu-halle-logo_3e360f.svg  
 
