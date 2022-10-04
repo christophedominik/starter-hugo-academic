@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title = "Curriculum Vitae"
-subtitle = ""
+title: "Curriculum Vitae"
+subtitle: ""
 
 # CV location
-cv_pdf = "uploads/cv.pdf"
+cv_pdf: "uploads/cv.pdf"
 
 # Group Logo
-group_logo = ""
+group_logo: ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
