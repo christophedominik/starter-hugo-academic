@@ -24,62 +24,36 @@ group_logo: ""
 design:
   columns: '2'
 
-[advanced]
- # Custom CSS. 
- css_style: ""
- 
- # CSS class.
- css_class: ""
+interests:
+- Landscape Ecology
+- Pollination Ecology
+- Biological Control
+- Gut Microbiome
+- Macroecology
+- R and data visualization
 
-[interests]
-  interests: [
-    "Dark matter",
-    "Quantum field theory",
-    "Statistical learning",
-    "Equity in science"
-  ]
+education:
+  courses:
+  - course: Ph.D in Natural Sciences
+    institution: Martin Luther University Halle-Wittenberg
+    year: 2019
+    logo: "https://www.ufz.de/export/data/2/253804_Logo_uni%20Halle.jpg"
+  - course: M.Sc. in Biodiversity and Tropical Ecosystems
+    institution: Université de La Réunion
+    year: 2011
+  - course: B.Sc. in Biology of Organisms and Populations
+    institution: Université Henri-Poincaré (UHP Nancy-1)
+    year: 2009
+    
 
-[[education.courses]]
-  course: "PhD in Physics"
-  course_short: "PhD"
-  institution: "Cornell University"
-  institution_short: "Cornell"
-  year: 2013
-  logo: ""
-
-[[education.courses]]
-  course: "MSc in Physics"
-  course_short: "MSc"
-  institution: "Durham University/IPPP"
-  institution_short: "Durham IPPP"
-  year: 2008
-  logo: ""
-
-[[education.courses]]
-  course: "MASt in Mathematics"
-  course_short: "MASt"
-  institution: "Cambridge University"
-  institution_short: "Cambridge"
-  year: 2007
-  logo: ""
-
-[[education.courses]]
-  course: "BS in Physics & Mathematics"
-  course_short: "BS"
-  institution: "Stanford University"
-  institution_short: "Stanford"
-  year: 2008
-  logo: ""
-
-[service]
-  service: [
-    "Website Committee (chair)",
-    "Open House Committee (chair)",
-    "Climate Committee",
-    "[Phy Sci Book Club Moderator](https://www.cellardoorbookstore.com/book-clubs)",
-    "[POWUR faculty adviser](https://sites.google.com/view/ucr-powur/)",
-    "[APS IDEA UCR lead](https://www.aps.org/programs/innovation/fund/idea.cfm)",
-    "[Snowmass TF/CF Liaison](https://www.aps.org/units/dpf/snowmass-2021.cfm)"
-  ]
+service: 
+- "Website Committee (chair)"
+- "Open House Committee (chair)"
+- "Climate Committee"
+- "[Phy Sci Book Club Moderator](https://www.cellardoorbookstore.com/book-clubs)"
+- "[POWUR faculty adviser](https://sites.google.com/view/ucr-powur/)"
+- "[APS IDEA UCR lead](https://www.aps.org/programs/innovation/fund/idea.cfm)"
+- "[Snowmass TF/CF Liaison](https://www.aps.org/units/dpf/snowmass-2021.cfm)"
+    
 ---
 
