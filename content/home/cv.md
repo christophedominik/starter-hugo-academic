@@ -75,14 +75,4 @@ group_logo = ""
     "[Snowmass TF/CF Liaison](https://www.aps.org/units/dpf/snowmass-2021.cfm)"
   ]
 ---
-**Flip Tanedo** is an associate professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
-
-- [NSF CAREER Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career), 2021 - 2026
-- UCR [Junior Excellence in Teaching Award](https://academyteachers.ucr.edu/awards/jet), 2021
-- [Hellman Fellow](http://www.hellmanfellows.org), 2020 - 2021
-- UCR [Commitment to Graduate Diversity Award](https://insideucr.ucr.edu/awards/2020/06/24/four-professors-honored-senate-faculty-awards), 2000
-- UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015  
-- Paul & Daisy Soros Fellowship, 2010 - 2012  
-- NSF Graduate Research Fellow, 2006 - 2011  
-- Marshall Scholarship, 2006 - 2008
 
