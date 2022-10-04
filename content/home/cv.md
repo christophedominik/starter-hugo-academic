@@ -21,8 +21,8 @@ cv_pdf: "uploads/cv.pdf"
 # Group Logo
 group_logo: ""
 
-[design]
-columns: "2"
+design:
+  columns: '2'
 
 [advanced]
  # Custom CSS. 
