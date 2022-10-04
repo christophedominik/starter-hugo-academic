@@ -1,8 +1,8 @@
-+++
+---
 widget = "CV"  
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Curriculum Vitae"
 subtitle = ""
@@ -74,7 +74,7 @@ group_logo = ""
     "[APS IDEA UCR lead](https://www.aps.org/programs/innovation/fund/idea.cfm)",
     "[Snowmass TF/CF Liaison](https://www.aps.org/units/dpf/snowmass-2021.cfm)"
   ]
-+++
+---
 **Flip Tanedo** is an associate professor of theoretical physics at the University of California, Riverside. His research seeks to discover how dark matter fits into our fundamental understanding of nature.
 
 - [NSF CAREER Award](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career), 2021 - 2026
