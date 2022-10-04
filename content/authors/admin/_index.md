@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Ph.D in Natural Sciences
-    company_logo: org-x
+    company_logo: https://studieren.de/uploads/tx_assearchengine/logo/mlu-halle-logo_3e360f.svg
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
     icon_pack: fas
