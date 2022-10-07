@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:christophe.dominik@ufz.de
+  link: mailto: christophe.dominik@ufz.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HopperDominik
@@ -58,7 +58,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=GII0MqEAAAAJ&h
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/P-2109-2019/  
+  link: https://www.webofscience.com/wos/author/rid/P-2109-2019  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
