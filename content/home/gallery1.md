@@ -21,10 +21,10 @@ gallery_item:
   caption: Rice terraces of Batad, Ifugao, Philippines (2012)
 - album: "field"
   image: LEGATO_03.jpg
-  caption: A Banaue inhabitant, crew helpers and myself in Banaue, Ifugao, Philippines (2013)
+  caption: A Banaue inhabitant, crew helpers and myself in Banaue, Ifugao, Philippines (2014)
 - album: "field"
   image: LEGATO_04.jpg
-  caption: Blow-Vac sampling machine to collect rice-arthropods (2013)  
+  caption: Blow-Vac sampling machine to collect rice-arthropods (2014)  
 - album: "field"
   image: PoshBee_01.jpeg
   caption: Oilseed rape fields in Saxony-Anhalt, Germany (2019)
@@ -37,9 +37,6 @@ gallery_item:
 - album: "field"
   image: PoshBee_05.jpg
   caption: Bumblebee colony assessment (2019)   
-- album: "field"
-  image: Safeguard_01.jpg
-  caption: Camera trapping (2022)  
 - album: "field"
   image: Safeguard_02.jpg
   caption: Aporia crataegi (2022)     
