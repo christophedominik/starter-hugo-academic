@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: christophe.dominik@ufz.de
+  link: mailto: "christophe.dominik@ufz.de"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HopperDominik
