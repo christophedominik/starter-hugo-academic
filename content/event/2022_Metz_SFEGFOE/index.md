@@ -20,7 +20,7 @@ all_day: false
 publishDate: "2022-11-23T00:00:00Z"
 
 authors: [admin, "Simon Wogram", "Hanna Honchar", "Stefan Michalski", "Oliver Schweiger"]
-tags: [LEGATO]
+tags: [Safeguard]
 
 # Is this a featured talk? (true/false)
 featured: false
