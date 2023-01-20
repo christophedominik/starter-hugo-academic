@@ -13,7 +13,7 @@ user_groups: ["Current Collaborators"]
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Aarhus University
-  url: https://pure.au.dk/portal/en/persons/toke-thomas-hoeye(3dd7f6f7-5f2a-481f-ac0f-e2315af69467)/cv.html?id=32507666
+  url: https://pure.au.dk/portal/en/persons/toke-thomas-hoeye(3dd7f6f7-5f2a-481f-ac0f-e2315af69467).html
   
 # Short bio (displayed in user profile at end of posts)
 bio: Professor, Department of Ecoscience, Aarhus University, Denmark
@@ -35,7 +35,7 @@ social:
   link: mailto:tth@ecos.au.dk
 - icon: home
   icon_pack: fas
-  link: https://pure.au.dk/portal/en/persons/toke-thomas-hoeye(3dd7f6f7-5f2a-481f-ac0f-e2315af69467)/cv.html?id=32507666
+  link: https://pure.au.dk/portal/en/persons/toke-thomas-hoeye(3dd7f6f7-5f2a-481f-ac0f-e2315af69467).html
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
