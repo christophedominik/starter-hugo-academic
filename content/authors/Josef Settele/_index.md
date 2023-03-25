@@ -23,6 +23,7 @@ interests:
 - "LEGATO"
 - "VOODOO"
 - "INTERCEDE"
+- "MAMBO"
 
 # Education to show in About widget
 education:

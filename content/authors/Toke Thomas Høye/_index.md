@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Finbarr G. Horgan"
+title: Toke Thomas Høye
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,17 +12,18 @@ user_groups: ["Current Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University College Dublin
-
+- name: Aarhus University
+  url: https://pure.au.dk/portal/en/persons/toke-thomas-hoeye(3dd7f6f7-5f2a-481f-ac0f-e2315af69467).html
+  
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher at the University College Dublin
+bio: Professor, Department of Ecoscience, Aarhus University, Denmark
 
 # Interests to show in About widget
 interests:
-- "LEGATO"
+- "MAMBO"
 
 # Education to show in About widget
-education:
+education: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -31,7 +32,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:f.horgan@ecolaverna.org
+  link: mailto:tth@ecos.au.dk
+- icon: home
+  icon_pack: fas
+  link: https://pure.au.dk/portal/en/persons/toke-thomas-hoeye(3dd7f6f7-5f2a-481f-ac0f-e2315af69467).html
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

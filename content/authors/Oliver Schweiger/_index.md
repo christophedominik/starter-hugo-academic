@@ -25,6 +25,7 @@ interests:
 - "INTERCEDE"
 - "iNTERACT"
 - "Safeguard"
+- "MAMBO"
 
 # Education to show in About widget
 education: 

@@ -45,8 +45,8 @@ links:
    
  - name: Dataset
    url: https://doi.org/10.5061/dryad.6mv5372
-   icon_pack: fas
-   icon: database
+   icon_pack: ai
+   icon: open-data
    
 url_pdf: 
 url_code: ''

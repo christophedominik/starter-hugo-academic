@@ -29,11 +29,9 @@ interests:
 education:
   courses:
   - course: Ph.D in Natural Sciences
-    company_logo: org-x
     institution: Martin Luther University Halle-Wittenberg
     year: 2019
-    icon_pack: fas
-    icon: database
+    link: "uploads/cv.pdf"
   - course: M.Sc. in Biodiversity and Tropical Ecosystems
     institution: Université de La Réunion
     year: 2011
@@ -60,7 +58,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=GII0MqEAAAAJ&h
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/P-2109-2019/  
+  link: https://www.webofscience.com/wos/author/rid/P-2109-2019  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Christophe_Dominik
