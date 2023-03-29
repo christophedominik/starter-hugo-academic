@@ -30,7 +30,7 @@ summary:
 
 tags:
 - LEGATO
-featured: true
+featured: false
 
 links:
  - name: DOI
