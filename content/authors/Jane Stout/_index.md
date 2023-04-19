@@ -21,9 +21,6 @@ bio:
 # Interests to show in About widget
 interests:
 - "PoshBee"
-- "VOODOO"
-- "INTERCEDE"
-- "MAMBO"
 
 # Education to show in About widget
 education:
