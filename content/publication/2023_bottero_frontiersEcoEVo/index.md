@@ -30,7 +30,7 @@ authors:
 - Jane C. Stout
 
 date: "2023-05-05T00:00:00Z"
-doi: "https://doi.org/10.3389/fevo.2023.1128228"
+# doi: "https://doi.org/10.3389/fevo.2023.1128228"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-05T00:12:00Z"
