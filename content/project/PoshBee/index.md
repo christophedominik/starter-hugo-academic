@@ -4,7 +4,7 @@ summary: "Pan-European assessment, monitoring, and mitigation of stressors on th
 
 tags:
 - PoshBee
-- Current
+- Past
 date: "2019-01-01T00:00:00"
 
 # Optional external URL for project (replaces project detail page).
