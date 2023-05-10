@@ -10,6 +10,8 @@ authors:
 - Elena Cini
 - Cecilia Costa
 - Pilar De la Rúa
+- Joachim R. de Miranda
+- Gennaro Di Prisco
 - Daniel Dzul Uuh
 - Simon Hodge
 - Kjell Ivarsson
@@ -26,7 +28,6 @@ authors:
 - Deepa Senapathi
 - Giovanni Tamburini
 - Estefanía Tobajas Talaván
-- Gennaro Di Prisco
 - Jane C. Stout
 
 author_notes:
@@ -72,7 +73,7 @@ links:
    icon: open-access
    
  - name: PDF
-   url: https://drive.google.com/file/d/1pyijMk6ucZiQJMKYcl9_us6t-uz9wwg1/view?usp=share_link
+   url: https://drive.google.com/file/d/1175zBH_IFhJsvirIHo5kN9OMlegHoJnd/view?usp=share_link
    icon_pack: fas
    icon: file-pdf
 
