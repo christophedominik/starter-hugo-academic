@@ -6,7 +6,7 @@ title: Simon Wogram
 superuser: false
 
 # Role/position/tagline
-role: Master Student
+role: PhD Student (co-supervisor)
 
 user_groups: ["Students"]
 
@@ -18,7 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- "Safeguard"
+- "MAMBO"
 
 # Education to show in About widget
 education:
