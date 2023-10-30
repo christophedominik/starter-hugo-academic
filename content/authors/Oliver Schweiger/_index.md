@@ -26,6 +26,7 @@ interests:
 - "iNTERACT"
 - "Safeguard"
 - "MAMBO"
+- "RestPoll"
 
 # Education to show in About widget
 education: 
