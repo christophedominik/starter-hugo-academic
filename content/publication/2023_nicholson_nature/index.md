@@ -1,7 +1,7 @@
 ---
 title: "Pesticide use negatively affects bumble bees across European landscapes"
 authors:
-- Nicholson, Charlie C.
+- Nicholson, Charlie C
 - Knapp, Jessica
 - Kiljanek, Tomasz
 - Albrecht, Matthias
@@ -10,11 +10,11 @@ authors:
 - De la Rúa, Pilar
 - Klein, Alexandra-Maria
 - Mänd, Marika
-- Potts, Simon G.
+- Potts, Simon G
 - Schweiger, Oliver
 - Bottero, Irene
 - Cini, Elena
-- de Miranda, Joachim R.
+- de Miranda, Joachim R
 - Di Prisco, Gennaro
 - admin
 - Hodge, Simon
@@ -25,11 +25,11 @@ authors:
 - Medrzycki, Piotr
 - Pereira-Peixoto, Maria Helena
 - Raimets, Risto
-- Schwarz, Janine M.
+- Schwarz, Janine M
 - Senapathi, Deepa
 - Tamburini, Giovanni
-- Brown, Mark J. F.
-- Stout, Jane C.
+- Brown, Mark J F
+- Stout, Jane C
 - Rundlöf, Maj
 
 author_notes:
