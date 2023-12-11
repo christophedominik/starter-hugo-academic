@@ -22,8 +22,6 @@ authors:
 - Pavel Stoev
 - Dan Stowell
 
-author_notes:
-
 date: "2023-12-10T00:00:00Z"
 # doi: "https://doi.org/10.3897/rio.9.e116951"
 
