@@ -8,13 +8,17 @@ tags:
 date: "2023-10-28T00:00:00"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://restpoll.eu/"
 
 image:
   caption: 
   focal_point: Smart
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/RestPoll
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -34,9 +38,8 @@ RestPoll is a highly transdisciplinary project aiming to provide society with to
 # Funding
 HORIZON 2020 EU   
 
-
 # Principal Investigators
 - [Alexandra Klein](https://www.nature.uni-freiburg.de/team-en/klein.en)
 
 # Official website
-/
+[https://restpoll.eu/](https://restpoll.eu/)
