@@ -1,36 +1,36 @@
 ---
 title: "Pesticide use negatively affects bumble bees across European landscapes"
 authors:
-- Nicholson, Charlie C
-- Knapp, Jessica
-- Kiljanek, Tomasz
-- Albrecht, Matthias
-- Chauzat, Marie-Pierre
-- Costa, Cecilia
-- De la Rúa, Pilar
-- Klein, Alexandra-Maria
-- Mänd, Marika
-- Potts, Simon G
-- Schweiger, Oliver
-- Bottero, Irene
-- Cini, Elena
-- de Miranda, Joachim R
-- Di Prisco, Gennaro
+- Charlie C, Nicholson
+- Jessica, Knapp
+- Tomasz, Kiljanek
+- Matthias, Albrecht
+- Marie-Pierre, Chauzat
+- Cecilia, Costa
+- Pilar, De la Rúa
+- Alexandra-Maria, Klein
+- Marika, Mänd
+- Simon G, Potts
+- Oliver, Schweiger
+- Irene, Bottero
+- Elena, Cini
+- Joachim R, de Miranda
+- Gennaro, Di Prisco
 - admin
-- Hodge, Simon
-- Kaunath, Vera
-- Knauer, Anina
-- Laurent, Marion
-- Martínez-López, Vicente
-- Medrzycki, Piotr
-- Pereira-Peixoto, Maria Helena
-- Raimets, Risto
-- Schwarz, Janine M
-- Senapathi, Deepa
-- Tamburini, Giovanni
-- Brown, Mark J F
-- Stout, Jane C
-- Rundlöf, Maj
+- Simon, Hodge
+- Vera, Kaunath
+- Anina, Knauer
+- Marion, Laurent
+- Vicente, Martínez-López
+- Piotr, Medrzycki
+- Maria Helena, Pereira-Peixoto
+- Risto, Raimets
+- Janine M, Schwarz
+- Deepa, Senapathi
+- Giovanni, Tamburini
+- Mark J F, Brown
+- Jane C, Stout
+- Maj, Rundlöf
 
 author_notes:
 - "Equal contribution"
@@ -68,7 +68,7 @@ links:
    icon: open-access
    
  - name: PDF
-   url: https://drive.google.com/file/d/1175zBH_IFhJsvirIHo5kN9OMlegHoJnd/view?usp=share_link
+   url: https://drive.google.com/file/d/1fKFLBISdoTntWyCimTAqK0rwnI6nIRnJ/view?usp=sharing
    icon_pack: fas
    icon: file-pdf
 
