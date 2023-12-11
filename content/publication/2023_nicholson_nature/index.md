@@ -1,36 +1,36 @@
 ---
 title: "Pesticide use negatively affects bumble bees across European landscapes"
 authors:
-- Charlie C, Nicholson
-- Jessica, Knapp
-- Tomasz, Kiljanek
-- Matthias, Albrecht
-- Marie-Pierre, Chauzat
-- Cecilia, Costa
-- Pilar, De la Rúa
-- Alexandra-Maria, Klein
-- Marika, Mänd
-- Simon G, Potts
-- Oliver, Schweiger
-- Irene, Bottero
-- Elena, Cini
-- Joachim R, de Miranda
-- Gennaro, Di Prisco
+- Charlie C. Nicholson
+- Jessica Knapp
+- Tomasz Kiljanek
+- Matthias Albrecht
+- Marie-Pierre Chauzat
+- Cecilia Costa
+- Pilar De la Rúa
+- Alexandra-Maria Klein
+- Marika Mänd
+- Simon G. Potts
+- Oliver Schweiger
+- Irene Bottero
+- Elena Cini
+- Joachim R. de Miranda
+- Gennaro Di Prisco
 - admin
-- Simon, Hodge
-- Vera, Kaunath
-- Anina, Knauer
-- Marion, Laurent
-- Vicente, Martínez-López
-- Piotr, Medrzycki
-- Maria Helena, Pereira-Peixoto
-- Risto, Raimets
-- Janine M, Schwarz
-- Deepa, Senapathi
-- Giovanni, Tamburini
-- Mark J F, Brown
-- Jane C, Stout
-- Maj, Rundlöf
+- Simon Hodge
+- Vera Kaunath
+- Anina Knauer
+- Marion Laurent
+- Vicente Martínez-López
+- Piotr Medrzycki
+- Maria Helena Pereira-Peixoto
+- Risto Raimets
+- Janine M Schwarz
+- Deepa Senapathi
+- Giovanni Tamburini
+- Mark J.F. Brown
+- Jane C. Stout
+- Maj Rundlöf
 
 author_notes:
 - "Equal contribution"
