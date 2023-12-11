@@ -3,7 +3,7 @@ title: MAMBO
 summary: "Modern approaches to the monitoring of biodiversity"
 
 tags:
-- Safeguard
+- MAMBO
 - Current
 date: "2022-09-14T00:00:00"
 
