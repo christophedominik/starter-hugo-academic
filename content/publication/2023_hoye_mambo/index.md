@@ -1,7 +1,7 @@
 ---
 title: "Modern Approaches to the Monitoring of Biоdiversity (MAMBO)" 
 authors:
-- Toke Thomas Hoye
+- Toke Thomas Høye
 - Tom August
 - Mario V. Balzan
 - Koos Biesmeijer
