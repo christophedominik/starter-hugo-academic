@@ -8,7 +8,7 @@ tags:
 date: "2023-10-28T00:00:00"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://restpoll.eu/"
+external_link: ""
 
 image:
   caption: 
