@@ -42,7 +42,7 @@ UFZ
 # Principal investigators
 - [Anna Cord](https://tu-dresden.de/bu/umwelt/geo/geographie/landoeko/die-professur/beschaeftigte/prof-dr-anna-cord?set_language=en)
 - [Michael Beckmann](https://www.ufz.de/index.php?en=43858)
-- admin
+- [Christophe Dominik](https://christophedominik.netlify.app/)
 
 # Official website
 [https://www.ufz.de/index.php?en=49370](https://www.ufz.de/index.php?en=49370)

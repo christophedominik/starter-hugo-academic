@@ -46,7 +46,7 @@ UFZ and iDiv Support funds
 2021
 
 # Principal Investigators
-- admin
+- [Christophe Dominik](https://christophedominik.netlify.app/)
 
 # Official website
 /
