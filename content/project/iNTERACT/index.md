@@ -4,7 +4,7 @@ summary: "Impacts of landscape structure, floral resources and land-use intensit
 
 tags:
 - iNTERACT
-- Current
+- Past
 date: "2021-04-01T00:00:00"
 
 # Optional external URL for project (replaces project detail page).

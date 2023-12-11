@@ -4,7 +4,7 @@ summary: "Interactions of Farmland Biodiversity and Agricultural Ecosystem Servi
 
 tags:
 - INTERCEDE
-- Current
+- Past
 date: "2020-04-01T00:00:00"
 
 # Optional external URL for project (replaces project detail page).

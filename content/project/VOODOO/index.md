@@ -4,7 +4,7 @@ summary: "Viral eco-evolutionary dynamics of wild and domestic pollinators under
 
 tags:
 - VOODOO
-- Current
+- Past
 date: "2020-01-01T00:00:00"
 
 # Optional external URL for project (replaces project detail page).
