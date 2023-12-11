@@ -21,6 +21,7 @@ bio:
 # Interests to show in About widget
 interests:
 - "PoshBee"
+- "RestPoll"
 
 # Education to show in About widget
 education:
