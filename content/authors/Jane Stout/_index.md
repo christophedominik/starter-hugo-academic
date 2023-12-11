@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jane Stout
+title: Jane C. Stout
 
 # Is this the primary user of the site?
 superuser: false
