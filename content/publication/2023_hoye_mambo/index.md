@@ -1,5 +1,5 @@
 ---
-title: "Modern Approaches to the Monitoring of Biоdiversity (MAMBO)"
+title: "Modern Approaches to the Monitoring of Biоdiversity (MAMBO)" 
 authors:
 - Toke Thomas Hoye
 - Tom August
@@ -46,7 +46,7 @@ abstract: "EU policies, such as the EU biodiversity strategy 2030 and the Birds 
 summary: 
 
 tags:
-- PoshBee
+- MAMBO
 featured: no
 
 links:
