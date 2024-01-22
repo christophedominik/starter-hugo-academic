@@ -23,6 +23,7 @@ interests:
 - "PoshBee"
 - "VOODOO"
 - "iNTERACT"
+- "WildPosh"
 
 # Education to show in About widget
 education:

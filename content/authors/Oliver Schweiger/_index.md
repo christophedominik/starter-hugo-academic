@@ -27,6 +27,7 @@ interests:
 - "Safeguard"
 - "MAMBO"
 - "RestPoll"
+- "WildPosh"
 
 # Education to show in About widget
 education: 
