@@ -36,7 +36,7 @@ slides: ""
 [Safeguard](https://www.safeguard.biozentrum.uni-wuerzburg.de) brings together world-leading researchers, NGOs, industry and policy experts to substantially contribute to Europe’s capacity to reverse the losses of wild pollinators. Safeguard will significantly expand current assessments of the status and trends of European wild pollinators including bees, butterflies, flies and other pollinating insects.
 
 # Funding
-HORIZON 2020 EU   
+Horizon 2020 EU   
 September 2021 to August 2025
 
 # Principal Investigators
