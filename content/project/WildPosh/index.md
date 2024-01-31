@@ -42,4 +42,4 @@ Horizon Europe
 - [Denis Michez](https://staff.umons.ac.be/denis.michez/indexEn.html)
 
 # Official website
-[https://t.co/oStA5xpnjC](https://t.co/oStA5xpnjC)
+[http://wildposh.eu/](http://wildposh.eu/)

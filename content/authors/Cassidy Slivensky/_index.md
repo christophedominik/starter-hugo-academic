@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cassidy Slivensky
+title: Cassidy Slivensky-Graf
 
 # Is this the primary user of the site?
 superuser: false
