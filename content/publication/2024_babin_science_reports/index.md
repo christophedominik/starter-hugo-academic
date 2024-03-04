@@ -72,7 +72,7 @@ links:
    icon: open-access
 
  - name: PDF
-   url: https://drive.google.com/file/d/1175zBH_IFhJsvirIHo5kN9OMlegHoJnd/view?usp=share_link
+   url: https://drive.google.com/file/d/1Rfmx_0rCo4fILFJZnGz76dLxAG7i9jiE/view?usp=drive_link
    icon_pack: fas
    icon: file-pdf
    
