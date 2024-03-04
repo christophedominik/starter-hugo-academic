@@ -1,5 +1,5 @@
 ---
-title: "Distribution of infectious and parasitic agents among three sentinel bee species across European agricultural landscapes"
+title: "Distribution of infectious and parasitic agents among three sentinel bee species across European agricultural landscapes" 
 authors:
 - Aurélie Babin
 - Frank Schurr
