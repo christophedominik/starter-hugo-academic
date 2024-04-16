@@ -62,11 +62,6 @@ links:
    icon_pack: ai
    icon: open-access
 
- - name: PDF
-   url: https://drive.google.com/file/d/1-KlnvhmOmm2igp1CG1Qqc3cwYGeZgvzx/view?usp=drive_link
-   icon_pack: fas
-   icon: file-pdf
-   
 url_pdf: ''
 url_code: ''
 url_dataset: ''
