@@ -69,7 +69,7 @@ featured: no
 
 links:
  - name: DOI
-   url: https://doi.org/10.1038/s41598-024-53357-whttps://doi.org/10.1016/j.scitotenv.2024.172118
+   url: https://doi.org/10.1016/j.scitotenv.2024.172118
    icon_pack: ai
    icon: open-access
 

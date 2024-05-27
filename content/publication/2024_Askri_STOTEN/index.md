@@ -11,6 +11,7 @@ authors:
 - Oliver Schweiger
 - Giovanni Tamburini
 - Maria Helena Pereira-Peixoto
+- Alexandra-Maria Klein
 - Vicente Martínez López
 - Pilar De la Rúa
 - Elena Cini
@@ -62,6 +63,11 @@ links:
    icon_pack: ai
    icon: open-access
 
+ - name: PDF
+   url: https://drive.google.com/file/d/1dmjZ4TVMuANlhYibOON0pY1zquYsLI1I/view?usp=drive_link
+   icon_pack: fas
+   icon: file-pdf
+   
 url_pdf: ''
 url_code: ''
 url_dataset: ''
