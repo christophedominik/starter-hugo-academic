@@ -6,9 +6,9 @@ title: Hanna Honchar
 superuser: false
 
 # Role/position/tagline
-role: Postdoc
+role: Researcher
 
-user_groups: ["Researcher"]
+user_groups: ["Current Collaborators"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
