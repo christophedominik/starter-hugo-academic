@@ -8,117 +8,117 @@ authors:
 - Paola Acuña
 - Matthias Albrecht
 - Maddi Artamendi
-- Badenhausser, Isabelle
-- Bennett, Joanne M.
-- Biella, Paolo
-- Bommarco, Ricardo
-- Cappellari, Andree
-- Castro, Sílvia
-- Clough, Yann
-- Colom, Pau
-- Costa, Joana
-- Cyrille, Nathan
-- de Manincor, Natasha
-- Dominguez-Lapido, Paula
+- Isabelle Badenhausser
+- Joanne M. Bennett
+- Paolo Biella
+- Ricardo Bommarco
+- Andree Cappellari
+- Sílvia Castro
+- Yann Clough
+- Pau Colom
+- Joana Costa
+- Nathan Cyrille
+- Natasha de Manincor
+- Paula Dominguez-Lapido
 - admin
-- Dupont, Yoko L.
-- Feldmann, Reinart
-- Felten, Emeline
-- Ferrero, Victoria
-- Fiordaliso, William
-- Fisogni, Alessandro
-- Fitzpatrick, Úna
-- Galloni, Marta
-- Gaspar, Hugo
-- Gazzea, Elena
-- Goia, Irina
-- Gómez-Martínez, Carmelo
-- González-Estévez, Miguel A.
-- González-Varo, Juan Pedro
-- Grass, Ingo
-- Hadrava, Jiří
-- Hautekèete, Nina
-- Hederström, Veronica
-- Heleno, Ruben
-- Hervias-Parejo, Sandra
-- Heuschele, Jonna M.
-- Hoiss, Bernhard
-- Holzschuh, Andrea
-- Hopfenmüller, Sebastian
-- Iriondo, José M.
-- Jauker, Birgit
-- Jauker, Frank
-- Jersáková, Jana
-- Kallnik, Katharina
-- Karise, Reet
-- Kleijn, David
-- Klotz, Stefan
-- Krausl, Theresia
-- Kühn, Elisabeth
-- Lara-Romero, Carlos
-- Larkin, Michelle
-- Laurent, Emilien
-- Lázaro, Amparo
-- Librán-Embid, Felipe
-- Liu, Yicong
-- Lopes, Sara
-- López-Núñez, Francisco
-- Loureiro, João
-- Magrach, Ainhoa
-- Mänd, Marika
-- Marini, Lorenzo
-- Mas, Rafel Beltran
-- Massol, François
-- Maurer, Corina
-- Michez, Denis
-- Molina, Francisco P.
-- Morente-López, Javier
-- Mullen, Sarah
-- Nakas, Georgios
-- Neuenkamp, Lena
-- Nowak, Arkadiusz
-- O'Connor, Catherine J.
-- O'Rourke, Aoife
-- Öckinger, Erik
-- Olesen, Jens M.
-- Opedal, Øystein H.
-- Petanidou, Theodora
-- Piquot, Yves
-- Potts, Simon G.
-- Power, Eileen F.
-- Proesmans, Willem
-- Rakosy, Demetra
-- Reverté, Sara
-- Roberts, Stuart P. M.
-- Rundlöf, Maj
-- Russo, Laura
-- Schatz, Bertrand
-- Scheper, Jeroen
-- Schweiger, Oliver
-- Serra, Pau Enric
-- Siopa, Catarina
-- Smith, Henrik G.
-- Stanley, Dara
-- Ştefan, Valentin
-- Steffan-Dewenter, Ingolf
-- Stout, Jane C.
-- Sutter, Louis
-- Švara, Elena Motivans
-- Świerszcz, Sebastian
-- Thompson, Amibeth
-- Traveset, Anna
-- Trefflich, Annette
-- Tropek, Robert
-- Tscharntke, Teja
-- Vanbergen, Adam J.
-- Vilà, Montserrat
-- Vujić, Ante
-- White, Cian
-- Wickens, Jennifer B.
-- Wickens, Victoria B.
-- Winsa, Marie
-- Zoller, Leana
-- Bartomeus, Ignasi
+- Yoko L. Dupont
+- Reinart Feldmann
+- Emeline Felten
+- Victoria Ferrero
+- William Fiordaliso
+- Alessandro Fisogni
+- Úna Fitzpatrick
+- Marta Galloni
+- Hugo Gaspar
+- Elena Gazzea
+- Irina Goia
+- Carmelo Gómez-Martínez
+- Miguel A. González-Estévez
+- Juan Pedro González-Varo
+- Ingo Grass
+- Jiří Hadrava
+- Nina Hautekèete
+- Veronica Hederström
+- Ruben Heleno
+- Sandra Hervias-Parejo
+- Jonna M. Heuschele
+- Bernhard Hoiss
+- Andrea Holzschuh
+- Sebastian Hopfenmüller
+- José M. Iriondo
+- Birgit Jauker
+- Frank Jauker
+- Jana Jersáková
+- Katharina Kallnik
+- Reet Karise
+- David Kleijn
+- Stefan Klotz
+- Theresia Krausl
+- Elisabeth Kühn
+- Carlos Lara-Romero
+- Michelle Larkin
+- Emilien Laurent
+- Amparo Lázaro
+- Felipe Librán-Embid
+- Yicong Liu
+- Sara Lopes
+- Francisco López-Núñez
+- João Loureiro
+- Ainhoa Magrach
+- Marika Mänd
+- Lorenzo Marini
+- Rafel Beltran Mas
+- François Massol
+- Corina Maurer
+- Denis Michez
+- Francisco P. Molina
+- Javier Morente-López
+- Sarah Mullen
+- Georgios Nakas
+- Lena Neuenkamp
+- Arkadiusz Nowak
+- Catherine J. O'Connor
+- Aoife O'Rourke
+- Erik Öckinger
+- Jens M. Olesen
+- Øystein H. Opedal
+- Theodora Petanidou
+- Yves Piquot
+- Simon G. Potts
+- Eileen F. Power
+- Willem Proesmans
+- Demetra Rakosy
+- Sara Reverté
+- Stuart P. M. Roberts
+- Maj Rundlöf
+- Laura Russo
+- Bertrand Schatz
+- Jeroen Scheper
+- Oliver Schweiger
+- Pau Enric Serra
+- Catarina Siopa
+- Henrik G. Smith
+- Dara Stanley
+- Valentin Ştefan
+- Ingolf Steffan-Dewenter
+- Jane C. Stout
+- Louis Sutter
+- Elena Motivans Švara
+- Sebastian Świerszcz
+- Amibeth Thompson
+- Anna Traveset
+- Annette Trefflich
+- Robert Tropek
+- Teja Tscharntke
+- Adam J. Vanbergen
+- Montserrat Vilà
+- Ante Vujić
+- Cian White
+- Jennifer B. Wickens
+- Victoria B. Wickens
+- Marie Winsa
+- Leana Zoller
+- Ignasi Bartomeus
 
 date: "2025-02-09T00:00:00Z"
 # doi: "https://doi.org/10.1111/geb.70000"
@@ -152,7 +152,7 @@ links:
    icon: open-access
 
  - name: PDF
-   url: https://drive.google.com/file/d/1iLNNL-_KJtz9KLTbYL2SVjYas-f-AYwY/view?usp=drive_link
+   url: https://drive.google.com/file/d/1UV68E6i6u7vghdShRut99SnKGAjoOO1p/view?usp=drive_link
    icon_pack: fas
    icon: file-pdf
    
