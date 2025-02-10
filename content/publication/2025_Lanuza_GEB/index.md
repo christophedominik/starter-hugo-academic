@@ -1,7 +1,7 @@
 ---
 title: "EuPPollNet: A European Database of Plant-Pollinators Networks" 
 authors:
-- Jose B. Lanuza,
+- Jose B. Lanuza
 - Tiffany M. Knight
 - Nerea Montes-Perez
 - Will Glenny
