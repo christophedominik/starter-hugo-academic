@@ -1,5 +1,5 @@
 ---
-title: "Impact of crop exposure and agricultural intensification on the phenotypic variation of bees"
+title: "Variation in the pollen diet of managed bee species across European agroecosystems"
 authors:
 - Clément Tourbez
 - Antoine Gekière
